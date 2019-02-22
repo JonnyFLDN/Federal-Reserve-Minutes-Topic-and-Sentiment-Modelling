@@ -8,6 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
+from multiprocessing import Pool
 
 def minarchive(year):
     url_main = 'https://www.federalreserve.gov'
@@ -39,7 +40,7 @@ def minarchive(year):
         while not main_text and i<3:
             main_text = soup.findAll(**eval('m'+str(i)))
             i += 1        
-        yield (filename,main_text)
+        saveFile(filename,year,main_text)
 
 
 def saveFile(fname,year,text):
@@ -62,12 +63,9 @@ def saveFile(fname,year,text):
         file.close()        
     
 
-def main(start_year,end_year):
-    for y in range(start_year,end_year-1,-1):
-        for x in minarchive(y):
-            fname,text = x 
-            saveFile(fname,y,text)
-
 if __name__ == '__main__':
-    main(2018,2004)
+    start_year,end_year = 2018,2004
+    p = Pool(processes=(start_year-end_year))
+    p.map(minarchive,range(start_year,end_year -1,-1))
+    p.close()
     
