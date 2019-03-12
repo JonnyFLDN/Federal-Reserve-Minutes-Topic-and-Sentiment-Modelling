@@ -8,7 +8,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
-from multiprocessing import Pool
+from concurrent.futures import ProcessPoolExecutor
+
 
 def minarchive(year):
     url_main = 'https://www.federalreserve.gov'
@@ -20,7 +21,7 @@ def minarchive(year):
         url = url_main + '/monetarypolicy/fomchistorical'+str(year)+'.htm'
     
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, 'lxml')
     min_link = soup.findAll('a',href=re.compile('(?=.*minutes)(?=.*'+str(year)+')'), 
                                 text=lambda text: text and 'PDF' not in text)
     
@@ -46,26 +47,24 @@ def minarchive(year):
 def saveFile(fname,year,text):
     main_directory = '/Users/jonny/Python_work/FedMin/Minutes/'
     os.chdir(main_directory)
-    directory = main_directory + str(year) + '/'
+    directory = os.join(main_directory, str(year))
     
     if not os.path.exists(directory):
         os.makedirs(directory)
         #check if file name already exists
     if not os.path.isfile(fname):
         os.chdir(directory)
-        file= open(fname + '.txt', 'w')
-        
-        text_clean = '\n'.join(t.text for t in text)
-        text_clean = re.sub(r'\r\n',' ',text_clean)
-        text_clean = re.sub(r'(?<!\n)\n(?!\n)',r'\n\n',text_clean)
-        
-        file.write(text_clean)
-        file.close()        
-    
+        with open(fname + '.txt', 'w', encoding='utf-8') as f:
+            text_clean = '\n'.join(t.text for t in text)
+            text_clean = re.sub(r'\r\n', ' ', text_clean)
+            text_clean = re.sub(r'(?<!\n)\n(?!\n)', r'\n\n', text_clean)
+
+            print(text_clean)
+            f.write(text_clean)
+
 
 if __name__ == '__main__':
-    start_year,end_year = 2018,2004
-    p = Pool(processes=(start_year-end_year))
-    p.map(minarchive,range(start_year,end_year -1,-1))
-    p.close()
-    
+    start_year, end_year = 2004, 2018
+    with ProcessPoolExecutor(max_workers=4) as pool:
+        for year in range(start_year, end_year + 1):
+            pool.submit(minarchive, year)
