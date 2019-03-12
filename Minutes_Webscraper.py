@@ -8,7 +8,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
-from multiprocessing import Pool
+from concurrent.futures import ProcessPoolExecutor
+
 
 def minarchive(year):
     url_main = 'https://www.federalreserve.gov'
@@ -63,8 +64,7 @@ def saveFile(fname,year,text):
 
 
 if __name__ == '__main__':
-    start_year,end_year = 2018,2004
-    p = Pool(processes=(start_year-end_year))
-    p.map(minarchive,range(start_year,end_year -1,-1))
-    p.close()
-    
+    start_year, end_year = 2004, 2018
+    with ProcessPoolExecutor(max_workers=4) as pool:
+        for year in range(start_year, end_year + 1):
+            pool.submit(minarchive, year)
