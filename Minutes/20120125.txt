@@ -1,0 +1,528 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+
+Federal Open Market Committee
+
+
+
+Monetary Policy Principles and Practice
+
+
+
+Policy Implementation
+
+
+
+Reports
+
+
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+
+
+Institution Supervision
+
+
+
+Reports
+
+
+
+Reporting Forms
+
+
+
+Supervision & Regulation Letters
+
+
+
+Banking Applications & Legal Developments
+
+
+
+Regulatory Resources
+
+
+
+Banking & Data Structure
+
+
+
+Regulations & Statutes
+
+
+
+Payment Policies
+
+
+
+Reserve Bank Payment Services & Data
+
+
+
+Financial Market Utilities & Infrastructures
+
+
+
+Research, Committees, and Forums
+
+
+
+Working Papers and Notes
+
+
+
+Models and Tools
+
+
+
+Bank Assets and Liabilities
+
+
+
+Bank Structure Data
+
+
+
+Business Finance
+
+
+
+Dealer Financing Terms
+
+
+
+Exchange Rates and International Data
+
+
+
+Financial Accounts
+
+
+
+Household Finance
+
+
+
+Industrial Activity
+
+
+
+Interest Rates
+
+
+
+Micro Data Reference Manual (MDRM)
+
+
+
+Money Stock and Reserve Balances
+
+
+
+Other
+
+
+
+Regulations
+
+
+
+Supervision & Enforcement
+
+
+
+Community Development
+
+
+
+Research & Analysis
+
+
+
+Consumer Resources
+
+
+January 24-25, 2012
+
+A meeting of the Federal Open Market Committee was held in the offices of the Board of Governors in Washington, D.C., on Tuesday, January 24, 2012, at 10:00 a.m., and continued on Wednesday, January 25, 2012, at 8:30 a.m.
+
+PRESENT:
+Ben Bernanke, Chairman
+William C. Dudley, Vice Chairman
+Elizabeth Duke
+Jeffrey M. Lacker
+Dennis P. Lockhart
+Sandra Pianalto
+Sarah Bloom Raskin
+Daniel K. Tarullo
+John C. Williams
+Janet L. Yellen
+
+James Bullard, Christine Cumming, Charles L. Evans, Esther L. George, and Eric Rosengren, Alternate Members of the Federal Open Market Committee
+
+Richard W. Fisher, Narayana Kocherlakota, and Charles I. Plosser, Presidents of the Federal Reserve Banks of Dallas, Minneapolis, and Philadelphia, respectively
+
+William B. English, Secretary and Economist
+Deborah J. Danker, Deputy Secretary
+Matthew M. Luecke, Assistant Secretary
+David W. Skidmore, Assistant Secretary
+Michelle A. Smith, Assistant Secretary
+Scott G. Alvarez, General Counsel
+Thomas C. Baxter, Deputy General Counsel
+Steven B. Kamin, Economist
+David W. Wilcox, Economist
+
+David Altig, Thomas A. Connors, Michael P. Leahy, William Nelson, Simon Potter, David Reifschneider, Glenn D. Rudebusch, and William Wascher, Associate Economists
+
+Brian Sack, Manager, System Open Market Account
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation, Board of Governors
+
+Nellie Liang, Director, Office of Financial Stability Policy and Research, Board of Governors
+
+Jon W. Faust and Andrew T. Levin, Special Advisors to the Board, Office of Board Members, Board of Governors
+
+James A. Clouse, Deputy Director, Division of Monetary Affairs, Board of Governors
+
+Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors
+
+Daniel E. Sichel, Senior Associate Director, Division of Research and Statistics, Board of Governors
+
+Ellen E. Meade, Stephen A. Meyer, and Joyce K. Zickler, Senior Advisers, Division of Monetary Affairs, Board of Governors; Lawrence Slifman, Senior Adviser, Division of Research and Statistics, Board of Governors
+
+Eric M. Engen1 and Daniel M. Covitz, Associate Directors, Division of Research and Statistics, Board of Governors; Trevor A. Reeve, Associate Director, Division of International Finance, Board of Governors
+
+Joshua Gallin,1 Deputy Associate Director, Division of Research and Statistics, Board of Governors
+
+David H. Small, Project Manager, Division of Monetary Affairs, Board of Governors
+
+Chiara Scotti, Senior Economist, Division of International Finance, Board of Governors; Louise Sheiner, Senior Economist, Division of Research and Statistics, Board of Governors
+
+Lyle Kumasaka, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+
+Kurt F. Lewis, Economist, Division of Monetary Affairs, Board of Governors
+
+Randall A. Williams, Records Management Analyst, Division of Monetary Affairs, Board of Governors
+
+Kenneth C. Montgomery, First Vice President, Federal Reserve Bank of Boston
+
+Jeff Fuhrer, Loretta J. Mester, Harvey Rosenblum, and Daniel G. Sullivan, Executive Vice Presidents, Federal Reserve Banks of Boston, Philadelphia, Dallas, and Chicago, respectively
+
+Craig S. Hakkio, Mark E. Schweitzer, Christopher J. Waller, and Kei-Mu Yi, Senior Vice Presidents, Federal Reserve Banks of Kansas City, Cleveland, St. Louis, and Minneapolis, respectively
+
+John Duca2 and Andrew Haughwout,2 Vice Presidents, Federal Reserve Banks of Dallas and New York, respectively
+
+Julie Ann Remache, Assistant Vice President, Federal Reserve Bank of New York
+
+Robert L. Hetzel, Senior Economist, Federal Reserve Bank of Richmond
+
+Daniel Cooper,2 Economist, Federal Reserve Bank of Boston
+
+Role of Financial Conditions in Economic Recovery: Lending and Leverage
+Staff summarized research projects being conducted across the Federal Reserve System on the effects of changes in lending practices and household leverage on consumer spending in recent years. These projects provided a range of views regarding the size and importance of such effects. An analysis employing aggregate time-series data indicated that changes in income, household assets and liabilities, and credit availability can largely account for the movements in aggregate consumption seen since the mid-1990s; this finding suggests that changes in credit conditions may have been an important factor driving changes in the saving rate in recent years. A second analysis used data on borrowing, debt repayments, and other credit factors for individual borrowers; this study found that movements in leverage--resulting from voluntary loan repayments and from loan charge-offs--have had a substantial effect on the cash flow of many households over time, and thus presumably on their spending. However, a third study, which employed household-level data, suggested that movements in consumption before, during, and after the recession were driven primarily by employment, income, and net worth, leaving little variation to be explained by changes in leverage and credit availability.
+
+In their discussion following the staff presentation, several meeting participants considered possible reasons for the differing results of the various analyses; participants also noted contrasts between these findings and those reported in some academic research. Several possible explanations for the varying conclusions were discussed, including differences across studies in model specification and data, as well as differences in the definition of deleveraging. In addition, it was noted that data limitations make it difficult to reach firm conclusions on this issue, at least at this time. Participants also considered the possible influence on aggregate consumer spending of changes in real interest rates and the distribution of income, the potential for policy actions to affect the fundamental factors driving household saving, and whether households' spending behavior is being affected by concerns about the future of Social Security.
+
+Annual Organizational Matters
+In the agenda for this meeting, it was reported that advices of the election of the following members and alternate members of the Federal Open Market Committee for a term beginning January 24, 2012, had been received and that these individuals had executed their oaths of office.
+
+The elected members and alternate members were as follows:
+
+William C. Dudley, President of the Federal Reserve Bank of New York, with Christine Cumming, First Vice President of the Federal Reserve Bank of New York, as alternate.
+
+Jeffrey M. Lacker, President of the Federal Reserve Bank of Richmond, with Eric Rosengren, President of the Federal Reserve Bank of Boston, as alternate.
+
+Sandra Pianalto, President of the Federal Reserve Bank of Cleveland, with Charles L. Evans, President of the Federal Reserve Bank of Chicago, as alternate.
+
+Dennis P. Lockhart, President of the Federal Reserve Bank of Atlanta, with James Bullard, President of the Federal Reserve Bank of St. Louis, as alternate.
+
+John C. Williams, President of the Federal Reserve Bank of San Francisco, with Esther L. George, President of the Federal Reserve Bank of Kansas City, as alternate.
+
+By unanimous vote, the following officers of the Federal Open Market Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2013:
+
+
+By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account.
+
+By unanimous vote, Brian Sack was selected to serve at the pleasure of the Committee as Manager, System Open Market Account, on the understanding that his selection was subject to being satisfactory to the Federal Reserve Bank of New York.
+
+Secretary's note: Advice subsequently was received that the selection of Mr. Sack as Manager was satisfactory to the Board of Directors of the Federal Reserve Bank of New York.
+
+By unanimous vote, the Authorization for Domestic Open Market Operations was amended to allow lending of securities on longer than an overnight basis to accommodate weekend, holiday, and similar trading conventions. The Guidelines for the Conduct of System Open Market Operations in Federal-Agency Issues remained suspended.
+
+AUTHORIZATION FOR DOMESTIC OPEN MARKET OPERATIONS
+(Amended January 24, 2012)
+
+1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, to the extent necessary to carry out the most recent domestic policy directive adopted at a meeting of the Committee:
+
+A. To buy or sell U.S. Government securities, including securities of the Federal Financing Bank, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States in the open market, from or to securities dealers and foreign and international accounts maintained at the Federal Reserve Bank of New York, on a cash, regular, or deferred delivery basis, for the System Open Market Account at market prices, and, for such Account, to exchange maturing U.S. Government and Federal agency securities with the Treasury or the individual agencies or to allow them to mature without replacement;
+
+B. To buy or sell in the open market U.S. Government securities, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States, for the System Open Market Account under agreements to resell or repurchase such securities or obligations (including such transactions as are commonly referred to as repo and reverse repo transactions) in 65 business days or less, at rates that, unless otherwise expressly authorized by the Committee, shall be determined by competitive bidding, after applying reasonable limitations on the volume of agreements with individual counterparties.
+
+2. In order to ensure the effective conduct of open market operations, the Federal Open Market Committee authorizes the Federal Reserve Bank of New York to use agents in agency MBS-related transactions.
+
+3. In order to ensure the effective conduct of open market operations, the Federal Open Market Committee authorizes the Federal Reserve Bank of New York to lend on an overnight basis U.S. Government securities and securities that are direct obligations of any agency of the United States, held in the System Open Market Account, to dealers at rates that shall be determined by competitive bidding. The Federal Reserve Bank of New York shall set a minimum lending fee consistent with the objectives of the program and apply reasonable limitations on the total amount of a specific issue that may be auctioned and on the amount of securities that each dealer may borrow. The Federal Reserve Bank of New York may reject bids which could facilitate a dealer's ability to control a single issue as determined solely by the Federal Reserve Bank of New York. The Federal Reserve Bank of New York may lend securities on longer than an overnight basis to accommodate weekend, holiday, and similar trading conventions.
+
+4. In order to ensure the effective conduct of open market operations, while assisting in the provision of short-term investments for foreign and international accounts maintained at the Federal Reserve Bank of New York and accounts maintained at the Federal Reserve Bank of New York as fiscal agent of the United States pursuant to Section 15 of the Federal Reserve Act, the Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York:
+
+A. for System Open Market Account, to sell U.S. Government securities, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States, to such accounts on the bases set forth in paragraph 1.A under agreements providing for the resale by such accounts of those securities in 65 business days or less on terms comparable to those available on such transactions in the market; and
+
+B. for New York Bank account, when appropriate, to undertake with dealers, subject to the conditions imposed on purchases and sales of securities in paragraph l.B, repurchase agreements in U.S. Government securities, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States, and to arrange corresponding sale and repurchase agreements between its own account and such foreign, international, and fiscal agency accounts maintained at the Bank.
+
+Transactions undertaken with such accounts under the provisions of this paragraph may provide for a service fee when appropriate.
+
+5. In the execution of the Committee's decision regarding policy during any intermeeting period, the Committee authorizes and directs the Federal Reserve Bank of New York, upon the instruction of the Chairman of the Committee, to adjust somewhat in exceptional circumstances the degree of pressure on reserve positions and hence the intended federal funds rate and to take actions that result in material changes in the composition and size of the assets in the System Open Market Account other than those anticipated by the Committee at its most recent meeting. Any such adjustment shall be made in the context of the Committee's discussion and decision at its most recent meeting and the Committee's long-run objectives for price stability and sustainable economic growth, and shall be based on economic, financial, and monetary developments during the intermeeting period. Consistent with Committee practice, the Chairman, if feasible, will consult with the Committee before making any adjustment.
+
+The Committee voted to reaffirm the Authorization for Foreign Currency Operations, the Foreign Currency Directive, and the Procedural Instructions with Respect to Foreign Currency Operations as shown below. The votes to reaffirm these documents included approval of the System's warehousing agreement with the U.S. Treasury. Mr. Lacker dissented in the votes on the Authorization for Foreign Currency Operations and the Foreign Currency Directive to indicate his opposition to foreign currency intervention by the Federal Reserve. In his view, such intervention would be ineffective if it did not also signal a shift in domestic monetary policy; and if it did signal such a shift, it could potentially compromise the Federal Reserve's monetary policy independence.
+
+AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
+(Reaffirmed January 24, 2012)
+
+1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, for System Open Market Account, to the extent necessary to carry out the Committee's foreign currency directive and express authorizations by the Committee pursuant thereto, and in conformity with such procedural instructions as the Committee may issue from time to time:
+
+A. To purchase and sell the following foreign currencies in the form of cable transfers through spot or forward transactions on the open market at home and abroad, including transactions with the U.S. Treasury, with the U.S. Exchange Stabilization Fund established by Section 10 of the Gold Reserve Act of 1934, with foreign monetary authorities, with the Bank for International Settlements, and with other international financial institutions:
+
+Australian dollars
+Brazilian reais
+Canadian dollars
+Danish kroner
+euro
+Japanese yen
+Korean won
+Mexican pesos
+New Zealand dollars
+Norwegian kroner
+Pounds sterling
+Singapore dollars
+Swedish kronor
+Swiss francs
+
+B. To hold balances of, and to have outstanding forward contracts to receive or to deliver, the foreign currencies listed in paragraph A above.
+
+C. To draw foreign currencies and to permit foreign banks to draw dollars under the reciprocal currency arrangements listed in paragraph 2 below, provided that drawings by either party to any such arrangement shall be fully liquidated within 12 months after any amount outstanding at that time was first drawn, unless the Committee, because of exceptional circumstances, specifically authorizes a delay.
+
+D. To maintain an overall open position in all foreign currencies not exceeding $25.0 billion. For this purpose, the overall open position in all foreign currencies is defined as the sum (disregarding signs) of net positions in individual currencies, excluding changes in dollar value due to foreign exchange rate movements and interest accruals. The net position in a single foreign currency is defined as holdings of balances in that currency, plus outstanding contracts for future receipt, minus outstanding contracts for future delivery of that currency, i.e., as the sum of these elements with due regard to sign.
+
+2. The Federal Open Market Committee directs the Federal Reserve Bank of New York to maintain reciprocal currency arrangements ("swap" arrangements) for the System Open Market Account for periods up to a maximum of 12 months with the following foreign banks, which are among those designated by the Board of Governors of the Federal Reserve System under Section 214.5 of Regulation N, Relations with Foreign Banks and Bankers, and with the approval of the Committee to renew such arrangements on maturity:
+
+Any changes in the terms of existing swap arrangements, and the proposed terms of any new arrangements that may be authorized, shall be referred for review and approval to the Committee.
+
+3. All transactions in foreign currencies undertaken under paragraph 1.A. above shall, unless otherwise expressly authorized by the Committee, be at prevailing market rates. For the purpose of providing an investment return on System holdings of foreign currencies or for the purpose of adjusting interest rates paid or received in connection with swap drawings, transactions with foreign central banks may be undertaken at non-market exchange rates.
+
+4. It shall be the normal practice to arrange with foreign central banks for the coordination of foreign currency transactions. In making operating arrangements with foreign central banks on System holdings of foreign currencies, the Federal Reserve Bank of New York shall not commit itself to maintain any specific balance, unless authorized by the Federal Open Market Committee. Any agreements or understandings concerning the administration of the accounts maintained by the Federal Reserve Bank of New York with the foreign banks designated by the Board of Governors under Section 214.5 of Regulation N shall be referred for review and approval to the Committee.
+
+5. Foreign currency holdings shall be invested to ensure that adequate liquidity is maintained to meet anticipated needs and so that each currency portfolio shall generally have an average duration of no more than 18 months (calculated as Macaulay duration). Such investments may include buying or selling outright obligations of, or fully guaranteed as to principal and interest by, a foreign government or agency thereof; buying such securities under agreements for repurchase of such securities; selling such securities under agreements for the resale of such securities; and holding various time and other deposit accounts at foreign institutions. In addition, when appropriate in connection with arrangements to provide investment facilities for foreign currency holdings, U.S. Government securities may be purchased from foreign central banks under agreements for repurchase of such securities within 30 calendar days.
+
+6. All operations undertaken pursuant to the preceding paragraphs shall be reported promptly to the Foreign Currency Subcommittee and the Committee. The Foreign Currency Subcommittee consists of the Chairman and Vice Chairman of the Committee, the Vice Chairman of the Board of Governors, and such other member of the Board as the Chairman may designate (or in the absence of members of the Board serving on the Subcommittee, other Board members designated by the Chairman as alternates, and in the absence of the Vice Chairman of the Committee, the Vice Chairman's alternate). Meetings of the Subcommittee shall be called at the request of any member, or at the request of the Manager, System Open Market Account ("Manager"), for the purposes of reviewing recent or contemplated operations and of consulting with the Manager on other matters relating to the Manager's responsibilities. At the request of any member of the Subcommittee, questions arising from such reviews and consultations shall be referred for determination to the Federal Open Market Committee.
+
+7. The Chairman is authorized:
+
+A. With the approval of the Committee, to enter into any needed agreement or understanding with the Secretary of the Treasury about the division of responsibility for foreign currency operations between the System and the Treasury;
+
+B. To keep the Secretary of the Treasury fully advised concerning System foreign currency operations, and to consult with the Secretary on policy matters relating to foreign currency operations;
+
+C. From time to time, to transmit appropriate reports and information to the National Advisory Council on International Monetary and Financial Policies.
+
+8. Staff officers of the Committee are authorized to transmit pertinent information on System foreign currency operations to appropriate officials of the Treasury Department.
+
+9. All Federal Reserve Banks shall participate in the foreign currency operations for System Account in accordance with paragraph 3G(1) of the Board of Governors' Statement of Procedure with Respect to Foreign Relationships of Federal Reserve Banks dated January 1, 1944.
+
+FOREIGN CURRENCY DIRECTIVE
+(Reaffirmed January 24, 2012)
+
+1. System operations in foreign currencies shall generally be directed at countering disorderly market conditions, provided that market exchange rates for the U.S. dollar reflect actions and behavior consistent with IMF Article IV, Section 1.
+
+2. To achieve this end the System shall:
+
+A. Undertake spot and forward purchases and sales of foreign exchange.
+
+B. Maintain reciprocal currency ("swap") arrangements with selected foreign central banks.
+
+C. Cooperate in other respects with central banks of other countries and with international monetary institutions.
+
+3. Transactions may also be undertaken:
+
+A. To adjust System balances in light of probable future needs for currencies.
+
+B. To provide means for meeting System and Treasury commitments in particular currencies, and to facilitate operations of the Exchange Stabilization Fund.
+
+C. For such other purposes as may be expressly authorized by the Committee.
+
+4. System foreign currency operations shall be conducted:
+
+A. In close and continuous consultation and cooperation with the United States Treasury;
+
+B. In cooperation, as appropriate, with foreign monetary authorities; and
+
+C. In a manner consistent with the obligations of the United States in the International Monetary Fund regarding exchange arrangements under IMF Article IV.
+
+PROCEDURAL INSTRUCTIONS WITH RESPECT TO FOREIGN CURRENCY OPERATIONS
+(Reaffirmed January 24, 2012)
+
+In conducting operations pursuant to the authorization and direction of the Federal Open Market Committee as set forth in the Authorization for Foreign Currency Operations and the Foreign Currency Directive, the Federal Reserve Bank of New York, through the Manager, System Open Market Account ("Manager"), shall be guided by the following procedural understandings with respect to consultations and clearances with the Committee, the Foreign Currency Subcommittee, and the Chairman of the Committee, unless otherwise directed by the Committee. All operations undertaken pursuant to such clearances shall be reported promptly to the Committee.
+
+1. The Manager shall clear with the Subcommittee (or with the Chairman, if the Chairman believes that consultation with the Subcommittee is not feasible in the time available):
+
+A. Any operation that would result in a change in the System's overall open position in foreign currencies exceeding $300 million on any day or $600 million since the most recent regular meeting of the Committee.
+
+B. Any operation that would result in a change on any day in the System's net position in a single foreign currency exceeding $150 million, or $300 million when the operation is associated with repayment of swap drawings.
+
+C. Any operation that might generate a substantial volume of trading in a particular currency by the System, even though the change in the System's net position in that currency might be less than the limits specified in 1.B.
+
+D. Any swap drawing proposed by a foreign bank not exceeding the larger of (i) $200 million or (ii) 15 percent of the size of the swap arrangement.
+
+2. The Manager shall clear with the Committee (or with the Subcommittee, if the Subcommittee believes that consultation with the full Committee is not feasible in the time available, or with the Chairman, if the Chairman believes that consultation with the Subcommittee is not feasible in the time available):
+
+3. The Manager shall also consult with the Subcommittee or the Chairman about proposed swap drawings by the System and about any operations that are not of a routine character.
+
+By unanimous vote, the Committee reaffirmed its Program for Security of FOMC Information.
+
+Statement on Longer-Run Goals and Monetary Policy Strategy
+Following the Committee's disposition of organizational matters, participants considered a revised draft of a statement of principles regarding the FOMC's longer-run goals and monetary policy strategy. The revisions reflected discussion of an earlier draft during the Committee's December meeting as well as comments received over the intermeeting period. The Chairman noted that the proposed statement did not represent a change in the Committee's policy approach. Instead, the statement was intended to help enhance the transparency, accountability, and effectiveness of monetary policy.
+
+In presenting the draft statement on behalf of the subcommittee on communications, Governor Yellen pointed out several key elements. First, the statement expresses the FOMC's commitment to explain its policy decisions as clearly as possible. Second, the statement specifies a numerical inflation goal in a context that firmly underscores the Federal Reserve's commitment to fostering both parts of its dual mandate. Third, the statement is intended to serve as an overarching set of principles that would be reaffirmed during the Committee's organizational meeting each year, and the bar for amending the statement would be high.
+
+All participants but one supported adopting the revised statement of principles regarding longer-run goals and monetary policy strategy, which is reproduced below.
+
+"Following careful deliberations at its recent meetings, the Federal Open Market Committee (FOMC) has reached broad agreement on the following principles regarding its longer-run goals and monetary policy strategy. The Committee intends to reaffirm these principles and to make adjustments as appropriate at its annual organizational meeting each January.
+
+The FOMC is firmly committed to fulfilling its statutory mandate from the Congress of promoting maximum employment, stable prices, and moderate long-term interest rates. The Committee seeks to explain its monetary policy decisions to the public as clearly as possible. Such clarity facilitates well-informed decisionmaking by households and businesses, reduces economic and financial uncertainty, increases the effectiveness of monetary policy, and enhances transparency and accountability, which are essential in a democratic society.
+
+Inflation, employment, and long-term interest rates fluctuate over time in response to economic and financial disturbances. Moreover, monetary policy actions tend to influence economic activity and prices with a lag. Therefore, the Committee's policy decisions reflect its longer-run goals, its medium-term outlook, and its assessments of the balance of risks, including risks to the financial system that could impede the attainment of the Committee's goals.
+
+The inflation rate over the longer run is primarily determined by monetary policy, and hence the Committee has the ability to specify a longer-run goal for inflation. The Committee judges that inflation at the rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, is most consistent over the longer run with the Federal Reserve's statutory mandate. Communicating this inflation goal clearly to the public helps keep longer-term inflation expectations firmly anchored, thereby fostering price stability and moderate long-term interest rates and enhancing the Committee's ability to promote maximum employment in the face of significant economic disturbances.
+
+The maximum level of employment is largely determined by nonmonetary factors that affect the structure and dynamics of the labor market. These factors may change over time and may not be directly measurable. Consequently, it would not be appropriate to specify a fixed goal for employment; rather, the Committee's policy decisions must be informed by assessments of the maximum level of employment, recognizing that such assessments are necessarily uncertain and subject to revision. The Committee considers a wide range of indicators in making these assessments. Information about Committee participants' estimates of the longer-run normal rates of output growth and unemployment is published four times per year in the FOMC's Summary of Economic Projections. For example, in the most recent projections, FOMC participants' estimates of the longer-run normal rate of unemployment had a central tendency of 5.2 percent to 6.0 percent, roughly unchanged from last January but substantially higher than the corresponding interval several years earlier.
+
+In setting monetary policy, the Committee seeks to mitigate deviations of inflation from its longer-run goal and deviations of employment from the Committee's assessments of its maximum level. These objectives are generally complementary. However, under circumstances in which the Committee judges that the objectives are not complementary, it follows a balanced approach in promoting them, taking into account the magnitude of the deviations and the potentially different time horizons over which employment and inflation are projected to return to levels judged consistent with its mandate."
+
+All FOMC members voted to adopt this statement except Mr. Tarullo, who abstained because he questioned the ultimate usefulness of the statement in promoting better communication of the Committee's policy strategy.
+
+Developments in Financial Markets and the Federal Reserve's Balance Sheet
+The Manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets during the period since the Federal Open Market Committee (FOMC) met on December 13, 2011. He also reported on System open market operations, including the ongoing reinvestment into agency-guaranteed mortgage-backed securities (MBS) of principal payments received on SOMA holdings of agency debt and agency-guaranteed MBS as well as the operations related to the maturity extension program authorized at the September 20–21 FOMC meeting. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.
+
+Staff Review of the Economic Situation
+The information reviewed at the January 24-25 meeting indicated that U.S. economic activity continued to expand moderately, while global growth appeared to be slowing. Overall conditions in the labor market improved further, although the unemployment rate remained elevated. Consumer price inflation was subdued, and measures of long-run inflation expectations remained stable.
+
+The unemployment rate declined to 8.5 percent in December; however, both long-duration unemployment and the share of workers employed part time for economic reasons were still quite high. Private nonfarm employment continued to expand moderately, while state and local government employment decreased at a slower pace than earlier in 2011. Some indicators of firms' hiring plans improved. Initial claims for unemployment insurance edged lower, on balance, since the middle of December but remained at a level consistent with only modest employment growth.
+
+Industrial production expanded in November and December, on net, and the rate of manufacturing capacity utilization moved up. Motor vehicle assemblies were scheduled to increase, on balance, in the first quarter of 2012, and broader indicators of manufacturing activity, such as the diffusion indexes of new orders from the national and regional manufacturing surveys, were at levels that suggested moderate growth in production in the near term.
+
+Real personal consumption expenditures continued to rise moderately in November, boosted by spending for motor vehicles and other durables, although households' real disposable income edged down. In December, however, nominal retail sales excluding purchases at motor vehicle and parts outlets declined, and sales of motor vehicles also dropped slightly. Consumer sentiment improved further in early January but was still at a low level.
+
+Activity in the housing market improved a bit in recent months but continued to be held down by the large overhang of foreclosed and distressed properties, uncertainty about future home prices, and tight underwriting standards for mortgage loans. Starts and permits for new single-family homes rose in November and December but remained only a little above the depressed levels seen earlier in 2011. Sales of new and existing homes also firmed somewhat in recent months, but home prices continued to trend lower.
+
+Real business expenditures on equipment and software appeared to have decelerated in the fourth quarter. Nominal orders and shipments of nondefense capital goods excluding aircraft declined in November for a second month. Forward-looking indicators of firms' equipment spending were mixed: Some survey measures of business conditions and capital spending plans improved, but corporate bond spreads continued to be elevated and analysts' earnings expectations for producers of capital goods remained muted. Nominal business spending for nonresidential construction was unchanged in November and continued to be held back by high vacancy rates and tight credit conditions for construction loans. Inventories in most industries looked to be well aligned with sales, though motor vehicle stocks remained lean.
+
+Monthly data for federal government spending pointed to a significant decline in real defense purchases in the fourth quarter. Real state and local government purchases seemed to be decreasing at a slower rate than during earlier quarters, as the pace of reductions in payrolls eased and construction spending leveled off in recent months.
+
+The U.S. international trade deficit widened in November as exports fell and imports rose. Exports declined in most major categories, with the exception of consumer goods. Exports of industrial supplies and materials were especially weak, though the weakness was concentrated in a few particularly volatile categories and reflected, in part, declines in prices. The rise in imports largely reflected higher imports of petroleum products and automotive products, which more than offset decreases in most other broad categories of imports.
+
+Overall U.S. consumer prices as measured by the price index for personal consumption expenditures were unchanged in November; as measured by the consumer price index, they were flat in December as well. Consumer energy prices decreased in recent months, while increases in consumer food prices slowed. Consumer prices excluding food and energy rose modestly in the past two months. Near-term inflation expectations from the Thomson Reuters/University of Michigan Surveys of Consumers were essentially unchanged in early January, and longer-term inflation expectations remained stable.
+
+Available measures of labor compensation indicated that wage gains continued to be modest. Average hourly earnings for all employees posted a moderate gain in December, and their rate of increase from 12 months earlier remained slow.
+
+Recent indicators of foreign economic activity pointed to a substantial deceleration in the fourth quarter of 2011. In the euro area, retail sales and industrial production were below their third-quarter averages in both October and November. Economic activity in much of Asia was disrupted by the effects of severe flooding in Thailand, which affected supply chains in the region. Twelve-month inflation rates receded in several advanced and emerging market economies, and most central banks maintained policy rates or eased further while continuing to provide significant liquidity support.
+
+Staff Review of the Financial Situation
+Developments in Europe continued to be a central focus for investors over the intermeeting period as concerns persisted about the prospects for a durable solution to the European fiscal and financial difficulties. Nevertheless, market sentiment toward Europe appeared to brighten a bit, and U.S. economic data releases were somewhat better than investors expected, leading to some improvement in conditions in financial markets.
+
+On balance over the period, the expected path for the federal funds rate implied by money market futures quotes was essentially unchanged. Yields on nominal Treasury securities rose slightly at intermediate and longer maturities. Indicators of inflation compensation derived from nominal and inflation-protected Treasury securities edged up.
+
+U.S. financial institutions reportedly retained ready access to short-term funding markets; there were no significant dislocations in those markets over year-end. Dollar funding pressures for European banks eased slightly. While spreads of the London interbank offered rate (Libor) over overnight index swap (OIS) rates of the same maturity remained elevated, rates for unsecured overnight commercial paper (CP) issued by some entities with European parents declined substantially following the lowering of charges on the central bank liquidity swap lines with the Federal Reserve, the implementation by the European Central Bank (ECB) of its first three-year longer-term refinancing operation (LTRO), and the passage of year-end. In secured funding markets, spreads of overnight asset-backed CP rates over overnight unsecured CP rates also declined, and the general collateral repurchase agreement, or repo, market continued to function normally.
+
+Indicators of financial stress eased somewhat over the intermeeting period, although they generally continued to be elevated. Market-based measures of possible spillovers from troubles at particular financial firms to the broader financial system were below their levels in the fall but remained above their levels prior to the financial crisis. Initial fourth-quarter earnings reports for large bank holding companies were mixed relative to market expectations, with poor capital market revenues weighing on the profits of institutions with significant trading operations. Although credit default swap (CDS) spreads of most large domestic bank holding companies remained elevated, they moved lower over the intermeeting period, and some institutions took advantage of easing credit conditions by issuing significant quantities of new long-term debt. Equity prices of most large domestic financial institutions outperformed the broader market, on net, over the intermeeting period. Nonetheless, the ratio of the market value of bank equity to its book value remained low for some large financial firms. Responses to the December Senior Credit Officer Opinion Survey on Dealer Financing Terms indicate that, since August, securities dealers have devoted increased time and attention to the management of concentrated credit exposures to other financial intermediaries, pointing to increased concern over counterparty risk.
+
+Broad equity price indexes increased more than 6 percent, on net, over the intermeeting period, and option-implied equity volatility declined notably. Yields on investment-grade corporate bonds declined a bit relative to those on comparable-maturity Treasury securities, while spreads of speculative-grade corporate bond yields over yields on Treasury securities decreased noticeably. Indicators of the credit quality of nonfinancial corporations continued to be solid. Conditions in the secondary market for leveraged loans were stable, with median bid prices about unchanged. Financing conditions for large nonfinancial businesses generally remained favorable. Bond issuance by investment-grade nonfinancial corporations was robust, though below its elevated November pace, while issuance by lower-rated firms slowed, likely owing in part to seasonal factors. Issuance of leveraged loans was relatively modest in the fourth quarter compared with its rapid pace earlier in the year. Share repurchases and cash-financed mergers by nonfinancial firms maintained their recent strength in the third quarter, leaving net equity issuance deeply negative.
+
+Financing conditions for commercial real estate (CRE) remained strained, and issuance of commercial mortgage-backed securities was very light in the fourth quarter. Responses to the January Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) indicated that bank CRE lending standards continued to be extraordinarily tight, but some banks reported having reduced the spreads of loan rates over their cost of funds (compared with a year ago) for the first time since 2007. Delinquency rates on commercial mortgages remained elevated, and CRE price indexes continued to fluctuate around levels substantially lower than their 2007 peaks.
+
+Conditions in residential mortgage markets remained extremely tight. Although mortgage interest rates and yields on current-coupon agency MBS edged down to near their historical lows, mortgage refinancing activity continued to be subdued amid tight underwriting standards and low levels of home equity. Mortgage delinquency rates, while improving gradually, remained elevated relative to pre-crisis norms, and house prices continued to move lower. The price of subprime residential mortgage-backed securities (RMBS), as measured by the ABX index, rose over the intermeeting period, consistent with similar changes for other higher-risk fixed-income securities. RMBS prices were supported by reports of the sale of a significant portion of the RMBS held in the Maiden Lane II portfolio.
+
+On the whole, conditions in consumer credit markets showed signs of improvement. Consumer credit increased in November, while delinquency rates on credit card loans in securitized pools held steady in November at historically low levels. Data on credit card solicitations and from responses to the January SLOOS suggested that lending standards on consumer loans continued to ease modestly.
+
+Financing conditions for state and local governments were mixed. Gross long-term issuance of municipal bonds remained robust in December, with continued strength in new issuance for capital projects. CDS spreads for states inched down further over the intermeeting period, and yields on long-term general obligation municipal bonds fell notably. However, downgrades of municipal bonds continued to substantially outpace upgrades in the third quarter.
+
+In the fourth quarter, bank credit continued to increase as banks accumulated agency MBS and growth of total loans picked up. Core loans--the sum of commercial and industrial (C&I) loans, real estate loans, and consumer loans--expanded modestly. Growth of C&I loans at domestic banks was robust but was partly offset by weakness at U.S. branches and agencies of European banks. Noncore loans rose sharply, on net, reflecting in part a surge in such loans at the U.S. branches and agencies of European institutions. Responses to the January SLOOS indicated that, in the aggregate, loan demand strengthened slightly and lending standards eased a bit further in the fourth quarter.
+
+M2 increased at an annual rate of 5 1/4 percent in December, likely reflecting continued demand for safe and liquid assets given investor concerns over developments in Europe. In addition, demand deposits rose rapidly around year-end, reportedly because lenders in short-term funding markets chose to leave substantial balances with banks over the turn of the year. The monetary base increased in December, largely reflecting growth in currency. Reserve balances were roughly unchanged over the intermeeting period.
+
+International financial markets seemed somewhat calmer over the intermeeting period than they had been in previous months, and the funding conditions faced by most European financial institutions and sovereigns eased somewhat in the wake of the ECB's first three-year LTRO. Short-term euro interest rates moved lower as euro-area institutions drew a substantial amount of three-year funds from the ECB, and dollar funding costs for European banks also appeared to decline. Spreads of yields on Italian and Spanish government debt over those on German bunds narrowed over the intermeeting period, with spreads on shorter-term debt falling particularly noticeably. The apparent improvement in market sentiment was not diminished by news late in the period that Standard & Poor's lowered its long-term sovereign bond ratings of nine euro-area countries and the European Financial Stability Facility or by news that negotiations over the terms of a voluntary private-sector debt exchange for Greece had not yet reached a conclusion.
+
+The staff's broad index of the foreign exchange value of the dollar declined slightly over the intermeeting period. While the dollar fell against most other currencies, it appreciated against the euro. Foreign stock markets generally ended the period higher, with headline equity indexes in Europe and the emerging market economies up substantially, although emerging market equity and bond funds continued to experience outflows on net during the period.
+
+Staff Economic Outlook
+In the economic forecast prepared for the January FOMC meeting, the staff's projection for the growth in real gross domestic product (GDP) in the near term was revised down a bit. The revision reflected the apparent decline in federal defense purchases and the somewhat shallower trajectory for consumer spending in recent months; the recent data on the labor market, production, and other spending categories were, on balance, roughly in line with the staff's expectations at the time of the previous forecast. The medium-term projection for real GDP growth in the January forecast was little changed from the one presented in December. Although the developments in Europe were expected to continue to weigh on the U.S. economy during the first half of this year, the staff still projected that real GDP growth would accelerate gradually in 2012 and 2013, supported by accommodative monetary policy, further improvements in credit availability, and rising consumer and business sentiment. The increase in real GDP was expected to be sufficient to reduce the slack in product and labor markets only slowly over the projection period, and the unemployment rate was anticipated to still be high at the end of 2013.
+
+The staff's forecast for inflation was essentially unchanged from the projection prepared for the December FOMC meeting. With stable long-run inflation expectations and substantial slack in labor and product markets anticipated to persist over the forecast period, the staff continued to project that inflation would remain subdued in 2012 and 2013.
+
+Participants' Views on Current Conditions and the Economic Outlook
+In conjunction with this FOMC meeting, all participants--the five members of the Board of Governors and the presidents of the 12 Federal Reserve Banks--provided projections of output growth, the unemployment rate, and inflation for each year from 2011 through 2014 and over the longer run. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge, over time, under appropriate monetary policy and in the absence of further shocks to the economy. Starting with this meeting, participants also provided assessments of the path for the target federal funds rate that they view as appropriate and compatible with their individual economic projections. Participants' economic projections and policy assessments are described in more detail in the Summary of Economic Projections, which is attached as an addendum to these minutes.
+
+In their discussion of the economic situation and outlook, meeting participants agreed that the information received since the Committee met in December suggested that the economy had been expanding moderately, notwithstanding some slowing in growth abroad. In general, labor market indicators pointed to some further improvement in labor market conditions, but progress was gradual and the unemployment rate remained elevated. Household spending had continued to advance at a moderate pace despite still-sluggish growth in real disposable income, but growth in business fixed investment had slowed. The housing sector remained depressed, with very low levels of activity; there were, however, signs of improvement in some local housing markets. Many participants observed that some indicators bearing on the economy's recent performance had shown greater-than-expected improvement, but a number also noted less favorable data; one noted that growth in final sales appeared to have slowed in the fourth quarter of last year even as output growth picked up. Inflation had been subdued in recent months, there was little evidence of wage or cost pressures, and longer-term inflation expectations had remained stable.
+
+With respect to the economic outlook, participants generally anticipated that economic growth over coming quarters would be modest and, consequently, expected that the unemployment rate would decline only gradually. A number of factors were seen as likely to restrain the pace of economic expansion, including the slowdown in economic activity abroad, fiscal tightening in the United States, the weak housing market, further household deleveraging, high levels of uncertainty among households and businesses, and the possibility of increased volatility in financial markets until the fiscal and banking issues in the euro area are more fully addressed. Participants continued to expect these headwinds to ease over time and so anticipated that the recovery would gradually gain strength. However, participants agreed that strains in global financial markets continued to pose significant downside risks to the economic outlook. With unemployment expected to remain elevated, and with longer-term inflation expectations stable, almost all participants expected inflation to remain subdued in coming quarters--that is, to run at or below the 2 percent level that the Committee judges most consistent with its statutory mandate over the longer run.
+
+In discussing the household sector, meeting participants noted that consumer spending had grown moderately in recent months. Consumer sentiment had improved since last summer, though its level was still quite low. Business contacts in the retail sector reported generally satisfactory holiday sales, but high-end retailers saw strong gains while lower-end retailers saw mixed results. Contacts also reported widespread discounting. Major express delivery companies indicated very high volumes at year-end and into January. Several participants observed that consumer spending had outpaced growth in personal disposable income last year, and a few noted that households remained pessimistic about their income prospects and uncertain about the economic outlook. These observations suggested that growth of consumer spending might slow. However, a few other participants pointed to increasing job gains in recent months as contributing to an improving trend in real incomes and thus supporting continued moderate growth in consumer spending.
+
+Reports from business contacts indicated that activity in the manufacturing, energy, and agricultural sectors continued to advance in recent months. Businesses generally reported that they remained cautious regarding capital spending and hiring; some contacts cited uncertainty about the economic outlook and about fiscal and regulatory policy. Nonetheless, business contacts had become somewhat more optimistic, with more contacts reporting plans to expand capacity and payrolls. Some companies indicated that they planned to relocate some production from abroad to the United States. A few participants noted that national and District surveys of firms' capital spending plans suggested that the recent slowing in business fixed investment was partly temporary. The combination of high energy prices and availability of new drilling technologies was promoting strong growth in investment outlays in the energy sector.
+
+Participants generally saw the housing sector as still depressed. The level of activity remained quite weak, house prices were continuing to decline in most areas, and the overhang of foreclosed and distressed properties was still substantial. Nonetheless, there were some small signs of improvement. The inventory of unsold homes had declined, though in part because the foreclosure process had slowed, and issuance of permits for new single-family homes had risen from its lows. One participant again noted reports from some homebuilders suggesting that land prices were edging up and that financing was available from nonbank sources. Another participant cited reports from business contacts indicating that credit standards in mortgage lending were becoming somewhat less stringent. Yet another noted that recent changes to the Home Affordable Refinance Program, which were intended to streamline the refinancing of performing high-loan-to-value mortgages, were showing some success.
+
+Participants generally expected that growth of U.S. exports was likely to be held back in the coming year by slower global economic growth. In particular, fiscal austerity programs in Europe and stresses in the European banking system seemed likely to restrain economic growth there, perhaps with some spillover to growth in Asia. One participant noted that shipping rates had declined of late, suggesting that a slowdown in international trade might be under way.
+
+Participants agreed that recent indicators showed some further gradual improvement in overall labor market conditions: Payroll employment had increased somewhat more rapidly in recent months, new claims for unemployment insurance had trended lower, and the unemployment rate had declined. Some business contacts indicated that they planned to do more hiring this year than last. However, unemployment--including longer-term unemployment--remained elevated, and the numbers of discouraged workers and people working part time because they could not find full-time work were also still quite high. Participants expressed a range of views on the current extent of slack in the labor market. Very high long-duration unemployment might indicate a mismatch between unemployed workers' skills and employers' needs, suggesting that a substantial part of the increase in unemployment since the beginning of the recession reflected factors other than a shortfall in aggregate demand. In contrast, the quite modest increases in labor compensation of late, and the large number of workers reporting that they are working part time because their employers have cut their hours, suggested that underutilization of labor was still substantial. A few participants noted that the recent decline in the unemployment rate reflected declining labor force participation in large part, and judged that the decline in the participation rate was likely to be reversed, at least to some extent, as the recovery continues and labor demand picks up.
+
+Meeting participants observed that financial conditions improved and financial market stresses eased somewhat during the intermeeting period: Equity prices rose, volatility declined, and bank lending conditions appeared to improve. Participants noted that the ECB's three-year refinancing operation had apparently contributed to improved conditions in European sovereign debt markets. Nonetheless, participants expected that global financial markets would remain focused on the evolving situation in Europe and anticipated that continued policy efforts would be necessary in Europe to fully address the area's fiscal and financial problems. U.S. banks reported increases in commercial lending as some European lenders pulled back, and some banking contacts indicated that creditworthy companies' demand for credit had increased. A number of participants noted further improvement in the availability of loans to businesses, with a couple of them indicating that small business contacts had reported increased availability of bank credit. However, a few other participants commented that small businesses in their Districts continued to face difficulty in obtaining bank loans.
+
+Participants observed that longer-run inflation expectations were still well anchored and also noted that inflation had been subdued in recent months, partly reflecting a decline in commodity prices and an easing of supply chain disruptions since mid-2011. In addition, labor compensation had risen only slowly and productivity continued to increase. One participant reported that a survey of business inflation expectations indicated firms were anticipating increases in unit costs on the order of 1 3/4 percent this year, just a bit higher than last year. Looking farther ahead, participants generally judged that the modest expansion in economic activity that they were projecting would be consistent with a gradual reduction in the current wide margins of slack in labor and product markets and with subdued inflation going forward. Some remained concerned that, with the persistence of considerable resource slack, inflation might continue to drift down and run below mandate-consistent levels for some time. However, a couple of participants were concerned that inflation could rise as the recovery continued and argued that providing additional monetary accommodation, or even maintaining the current highly accommodative stance of monetary policy over the medium run, would erode the stability of inflation expectations and risk higher inflation.
+
+Committee participants discussed possible changes to the forward guidance that has been included in the Committee's recent post-meeting statements. Many participants thought it important to explore means for better communicating policymakers' thinking about future monetary policy and its relationship to evolving economic conditions. A couple of participants expressed concern that some press reports had misinterpreted the Committee's use of a date in its forward guidance as a commitment about its future policy decisions. Several participants thought it would be helpful to provide more information about the economic conditions that would be likely to warrant maintaining the current target range for the federal funds rate, perhaps by providing numerical thresholds for the unemployment and inflation rates. Different opinions were expressed regarding the appropriate values of such thresholds, reflecting different assessments of the path for the federal funds rate that would likely be appropriate to foster the Committee's longer-run goals. However, some participants worried that such thresholds would not accurately or effectively convey the Committee's forward-looking approach to monetary policy and thus would pose difficult communications issues, or that movements in the unemployment rate, by themselves, would be an unreliable measure of progress toward maximum employment. Several participants proposed either dropping or greatly simplifying the forward guidance in the Committee's statement, arguing that information about participants' assessments of the appropriate future level of the federal funds rate, which would henceforth be contained in the Summary of Economic Projections (SEP), made it unnecessary to include forward guidance in the post-meeting statement. However, several other participants emphasized that the information regarding the federal funds rate in the SEP could not substitute for a formal decision of the members of the FOMC. Participants agreed to continue exploring approaches for providing the public with greater clarity about the linkages between the economic outlook and the Committee's monetary policy decisions.
+
+Committee Policy Action
+Members viewed the information on U.S. economic activity received over the intermeeting period as suggesting that the economy had been expanding moderately and generally agreed that the economic outlook had not changed greatly since they met in December. While overall labor market conditions had improved somewhat further and unemployment had declined in recent months, almost all members viewed the unemployment rate as still elevated relative to levels that they saw as consistent with the Committee's mandate over the longer run. Available data indicated some slowing in the pace of economic growth in Europe and in some emerging market economies, pointing to reduced growth of U.S. exports going forward. With the economy facing continuing headwinds from the recent financial crisis and with growth slowing in a number of U.S. export markets, members generally expected a modest pace of economic growth over coming quarters, with the unemployment rate declining only gradually. Strains in global financial markets continued to pose significant downside risks to economic activity. Inflation had been subdued in recent months, and longer-term inflation expectations remained stable. Members generally anticipated that inflation over coming quarters would run at or below the 2 percent level that the Committee judges most consistent with its mandate.
+
+In their discussion of monetary policy for the period ahead, members agreed that it would be appropriate to maintain the existing highly accommodative stance of monetary policy. In particular, they agreed to keep the target range for the federal funds rate at 0 to 1/4 percent, to continue the program of extending the average maturity of the Federal Reserve's holdings of securities as announced in September, and to retain the existing policies regarding the reinvestment of principal payments from Federal Reserve holdings of securities.
+
+With respect to the statement to be released following the meeting, members agreed that only relatively small modifications to the first two paragraphs were needed to reflect the incoming information and the modest changes to the economic outlook implied by the recent data. In light of the economic outlook, almost all members agreed to indicate that the Committee expects to maintain a highly accommodative stance for monetary policy and currently anticipates that economic conditions--including low rates of resource utilization and a subdued outlook for inflation over the medium run--are likely to warrant exceptionally low levels for the federal funds rate at least through late 2014, longer than had been indicated in recent FOMC statements. In particular, several members said they anticipated that unemployment would still be well above their estimates of its longer-term normal rate, and inflation would be at or below the Committee's longer-run objective, in late 2014. It was noted that extending the horizon of the Committee's forward guidance would help provide more accommodative financial conditions by shifting downward investors' expectations regarding the future path of the target federal funds rate. Some members underscored the conditional nature of the Committee's forward guidance and noted that it would be subject to revision in response to significant changes in the economic outlook.
+
+The Committee also stated that it is prepared to adjust the size and composition of its securities holdings as appropriate to promote a stronger economic recovery in a context of price stability. A few members observed that, in their judgment, current and prospective economic conditions--including elevated unemployment and inflation at or below the Committee's objective--could warrant the initiation of additional securities purchases before long. Other members indicated that such policy action could become necessary if the economy lost momentum or if inflation seemed likely to remain below its mandate-consistent rate of 2 percent over the medium run. In contrast, one member judged that maintaining the current degree of policy accommodation beyond the near term would likely be inappropriate; that member anticipated that a preemptive tightening of monetary policy would be necessary before the end of 2014 to keep inflation close to 2 percent.
+
+At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
+
+"The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output. To further its long-run objectives, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to 1/4 percent. The Committee directs the Desk to continue the maturity extension program it began in September to purchase, by the end of June 2012, Treasury securities with remaining maturities of approximately 6 years to 30 years with a total face value of $400 billion, and to sell Treasury securities with remaining maturities of 3 years or less with a total face value of $400 billion. The Committee also directs the Desk to maintain its existing policies of rolling over maturing Treasury securities into new issues and of reinvesting principal payments on all agency debt and agency mortgage-backed securities in the System Open Market Account in agency mortgage-backed securities in order to maintain the total face value of domestic securities at approximately $2.6 trillion. The Committee directs the Desk to engage in dollar roll transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions. The System Open Market Account Manager and the Secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability."
+
+The vote encompassed approval of the statement below to be released at 12:30 p.m.:
+
+"Information received since the Federal Open Market Committee met in December suggests that the economy has been expanding moderately, notwithstanding some slowing in global growth. While indicators point to some further improvement in overall labor market conditions, the unemployment rate remains elevated. Household spending has continued to advance, but growth in business fixed investment has slowed, and the housing sector remains depressed. Inflation has been subdued in recent months, and longer-term inflation expectations have remained stable.
+
+Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee expects economic growth over coming quarters to be modest and consequently anticipates that the unemployment rate will decline only gradually toward levels that the Committee judges to be consistent with its dual mandate. Strains in global financial markets continue to pose significant downside risks to the economic outlook. The Committee also anticipates that over coming quarters, inflation will run at levels at or below those consistent with the Committee's dual mandate.
+
+To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee expects to maintain a highly accommodative stance for monetary policy. In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions--including low rates of resource utilization and a subdued outlook for inflation over the medium run--are likely to warrant exceptionally low levels for the federal funds rate at least through late 2014.
+
+The Committee also decided to continue its program to extend the average maturity of its holdings of securities as announced in September. The Committee is maintaining its existing policies of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee will regularly review the size and composition of its securities holdings and is prepared to adjust those holdings as appropriate to promote a stronger economic recovery in a context of price stability."
+
+Voting for this action: Ben Bernanke, William C. Dudley, Elizabeth Duke, Dennis P. Lockhart, Sandra Pianalto, Sarah Bloom Raskin, Daniel K. Tarullo, John C. Williams, and Janet L. Yellen.
+
+Voting against this action: Jeffrey M. Lacker.
+
+Mr. Lacker dissented because he preferred to omit the description of the time period over which economic conditions were likely to warrant exceptionally low levels of the federal funds rate. He expected that a preemptive tightening of monetary policy would be necessary to prevent an increase in inflation projections or inflation expectations prior to the end of 2014. More broadly, given the inclusion of FOMC participants' projections for the federal funds rate target in the Summary of Economic Projections, he saw no need to provide additional forward guidance in the Committee statement.
+
+It was agreed that the next meeting of the Committee would be held on Tuesday, March 13, 2012. The meeting adjourned at 11:30 a.m. on January 25, 2012.
+
+Notation Vote
+By notation vote completed on December 30, 2011, the Committee unanimously approved the minutes of the FOMC meeting held on December 13, 2011.
+
+ 
+
+_____________________________
+
+William B. English
+
+Secretary
+ 
+
+Board of Governors of the Federal Reserve System
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551
