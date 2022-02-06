@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The coronavirus outbreak and the measures taken to protect public health were severely disrupting economic activity in the United States and abroad. The available information for the April 28–29 meeting indicated that U.S. labor market conditions deteriorated substantially in March and April, and real gross domestic product (GDP) declined sharply in the first quarter of the year. In addition, a variety of economic indicators were already pointing toward an extraordinary contraction in GDP in the second quarter. Consumer price inflation, as measured by the 12‑month percentage change in the price index for personal consumption expenditures (PCE), remained below 2 percent in February.
 
 Job losses surged in March, even though the drop in total nonfarm payroll employment reflected only those changes that had occurred through the mid-month reference period of the establishment survey. In addition, the unemployment rate jumped to 4.4 percent in March, and the labor force participation rate decreased notably. After economic shutdowns started to occur on a widespread basis, initial claims for unemployment insurance benefits skyrocketed in the second half of March through the first half of April, a development that pointed to substantial job losses in April. Nominal wage growth remained moderate, as average hourly earnings for all employees increased 3.1 percent over the 12 months ending in March.
@@ -95,4 +95,3 @@ Members agreed that they would continue to monitor the implications of incoming 
 
 To support the flow of credit to households and businesses, members agreed that it was appropriate for the Federal Reserve to continue to purchase Treasury securities and agency RMBS and CMBS in the amounts needed to support smooth market functioning, thereby fostering effective transmission of monetary policy to broader financial conditions. In addition, the Desk would continue to offer large-scale overnight and term repo operations. Members agreed that they would closely monitor market conditions and be prepared to adjust their plans as appropriate.
 
-At the conclusion of the discussion

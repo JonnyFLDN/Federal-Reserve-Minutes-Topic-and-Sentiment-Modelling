@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the June 16-17 meeting suggested that real gross domestic product (GDP) was increasing moderately in the second quarter after edging down in the first quarter. Labor market conditions improved somewhat further in recent months. Consumer price inflation continued to run below the FOMC's longer-run objective of 2 percent and was restrained significantly by earlier declines in energy prices and decreases in prices of non-energy imports. Survey measures of longer‑run inflation expectations remained stable, while market-based measures of inflation compensation were still low.
 
 Total nonfarm payroll employment expanded at a faster pace in April and May than in the first quarter. The unemployment rate was 5.5 percent in May, about the same as its first-quarter average. The labor force participation rate and the employment-to-population ratio rose a bit over April and May, and the share of workers employed part time for economic reasons edged down on net. The rate of private-sector job openings moved up a little, on balance, in March and April, while the rates of hiring and quits were essentially unchanged.
@@ -87,4 +87,3 @@ The Committee agreed to maintain the target range for the federal funds rate at 
 
 The Committee also maintained its policy of reinvesting principal payments from agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions. The Committee agreed to reiterate its expectation that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
 
-At the conclusion of the discussion

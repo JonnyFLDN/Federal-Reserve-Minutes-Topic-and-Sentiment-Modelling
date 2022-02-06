@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the October 27-28 meeting suggested that real GDP was increasing at a moderate pace, but that the improvement in labor market conditions had slowed somewhat in recent months. Inflation continued to run below the FOMC's longer-run objective of 2 percent, restrained in part by declines in energy prices and prices of non-energy imported goods. Survey measures of longer-run inflation expectations remained stable; market-based measures of inflation compensation moved slightly lower.
 
 Total nonfarm payroll employment expanded at about the same rate in September as in August, although at a slower pace than earlier this year, and the unemployment rate remained at 5.1 percent. Both the labor force participation rate and the employment-to-population ratio edged down. However, the share of workers employed part time for economic reasons fell a little. The rate of private-sector job openings declined in August but was still at a high level, while the rates of hiring and quits were unchanged.
@@ -93,4 +93,3 @@ In its postmeeting statement, rather than framing its near-term policy path in t
 
 The Committee also maintained its policy of reinvesting principal payments from its agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
 
-At the conclusion of the discussion

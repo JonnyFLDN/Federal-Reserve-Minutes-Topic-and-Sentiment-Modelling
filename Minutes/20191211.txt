@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 December 10–11, 2019
 
@@ -345,7 +273,7 @@ A few participants raised the concern that keeping interest rates low over a lon
 Various participants remarked on issues related to the implementation of monetary policy, highlighting topics for further discussion at future meetings. Among the topics mentioned were the potential role of a standing repo facility in an ample-reserves regime, the setting of administered rates, and the composition of the Federal Reserve's holdings of Treasury securities over the longer run.
 
 Committee Policy Action
-In their discussion of monetary policy for this meeting, members noted that information received since the FOMC met in October indicated that the labor market remained strong and that economic activity had been rising at a moderate rate. Job gains had been solid, on average, in recent months, and the unemployment rate had remained low. Al­though household spending had been rising at a strong pace, business fixed investment and exports remained weak. On a 12‑month basis, overall inflation and inflation for items other than food and energy were running below 2 percent. Market-based measures of inflation compensation remained low; survey-based measures of longer-term inflation expectations were little changed. 
+In their discussion of monetary policy for this meeting, members noted that information received since the FOMC met in October indicated that the labor market remained strong and that economic activity had been rising at a moderate rate. Job gains had been solid, on average, in recent months, and the unemployment rate had remained low. Al­though household spending had been rising at a strong pace, business fixed investment and exports remained weak. On a 12‑month basis, overall inflation and inflation for items other than food and energy were running below 2 percent. Market-based measures of inflation compensation remained low; survey-based measures of longer-term inflation expectations were little changed.
 
 Members agreed to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent. Members judged that the current stance of monetary policy is appropriate to support sustained expansion of economic activity, strong labor market conditions, and inflation near the Committee's symmetric 2 percent objective.
 
@@ -385,24 +313,23 @@ It was agreed that the next meeting of the Committee would be held on Tuesday–
 Notation Vote
 By notation vote completed on November 19, 2019, the Committee unanimously approved the minutes of the Committee meeting held on October 29–30, 2019.
 
-
 _______________________
 James A. Clouse
 Secretary
 
- 1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text
+1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text
 
- 2. The Committee appointed Lorie K. Logan to serve as the manager of the System Open Market Account at the conclusion of the meeting. Return to text
+2. The Committee appointed Lorie K. Logan to serve as the manager of the System Open Market Account at the conclusion of the meeting. Return to text
 
- 3. Attended through the discussion of the review of the monetary policy framework. Return to text
+3. Attended through the discussion of the review of the monetary policy framework. Return to text
 
- 4. Attended through the discussion of developments in financial markets and open market operations. Return to text
+4. Attended through the discussion of developments in financial markets and open market operations. Return to text
 
- 5. Attended Tuesday's session only. Return to text
+5. Attended Tuesday's session only. Return to text
 
- 6. Attended through the discussion of developments in financial markets and open market operations, and from the discussion of current monetary policy through the end of the meeting. Return to text
+6. Attended through the discussion of developments in financial markets and open market operations, and from the discussion of current monetary policy through the end of the meeting. Return to text
 
- 7. Attended the discussion of economic developments and the outlook. Return to text
+7. Attended the discussion of economic developments and the outlook. Return to text
 
 Board of Governors of the Federal Reserve System
 

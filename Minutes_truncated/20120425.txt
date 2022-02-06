@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed at the April 24-25 meeting suggested that economic activity was expanding moderately. Payroll employment continued to move up, and the unemployment rate, while still elevated, declined a little further. Overall consumer price inflation increased somewhat, primarily reflecting higher prices of crude oil and gasoline, but measures of long-run inflation expectations remained stable.
 
 The unemployment rate declined to 8.2 percent in March. The share of workers employed part time for economic reasons also moved down, but the rate of long-duration unemployment remained elevated. Private nonfarm employment rose at a slower pace in March than in the preceding three months, while total government employment was little changed in recent months after declining last year. Some indicators of job openings and firms' hiring plans improved. After being roughly flat over most of the intermeeting period, initial claims for unemployment insurance rose moderately toward the end of the period but remained at a level consistent with further moderate job gains in the coming months.
@@ -89,4 +89,3 @@ The Committee also stated that it will regularly review the size and composition
 
 Committee members discussed the desirability of providing more clarity about the economic conditions that would likely warrant maintaining the current target range for the federal funds rate and those that would indicate that a change in monetary policy was appropriate. Doing so might help the public better understand the conditionality in the Committee's forward guidance. The Committee also discussed the relationship between the Committee's statement, which expresses the collective view of the Committee, and the policy projections of individual participants, which are included in the SEP. The Chairman asked the subcommittee on communications to consider possible enhancements and refinements to the SEP that might help better clarify the link between economic developments and the Committee's view of the appropriate stance of monetary policy.
 
-At the conclusion of the discussion

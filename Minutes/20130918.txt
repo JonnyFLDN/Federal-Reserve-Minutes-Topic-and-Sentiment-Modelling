@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 September 17-18, 2013
 
@@ -292,7 +220,7 @@ The participants who spoke in favor of moderating the pace of securities purchas
 
 With regard to adjustments in the pace of asset purchases, whether at this or a future meeting, a few participants expressed a preference for not cutting MBS purchases but reducing purchases only of Treasury securities initially, with the intent of continuing to support the recovery in the housing sector. However, the appeal of including both types of securities in any reduction was also mentioned. In addition, in an effort to reduce uncertainty about how the Committee might adjust its purchases in response to economic developments and to alleviate some of the related communications issues, one participant suggested an approach that would mechanically link the reduction in asset purchases to numerical values for the unemployment rate, with the goal of ending the program when the unemployment rate reached a stated level.
 
-Participants also discussed the potential for clarifying or strengthening the Committee's forward guidance for the federal funds rate. To the extent that financial markets have at times interpreted the Committee's communications regarding the asset purchase program as also signaling information about the federal funds rate target, participants thought it might be important to reiterate the distinction between the two, and a clarification or strengthening of the forward guidance might help to reinforce this message. In part toward this end, participants mentioned several possible steps that might be considered, including stating that the Committee would not raise its target for the federal funds rate if the inflation rate was expected to run below a given level or providing additional information on the Committee's intentions regarding the federal funds rate after the 6-1/2 percent unemployment threshold was reached. One participant stressed that the Committee could use the full range of its tools, including forward guidance, to further improve the alignment of the medium-term outlook for employment and inflation with its longer-term goals. In light of the importance of credibility for the effectiveness of the forward guidance for the federal funds rate, participants noted the possible implications of uncertainties related to the Federal Reserve leadership transition in considering the appropriate timing of any enhancements to the guidance. 
+Participants also discussed the potential for clarifying or strengthening the Committee's forward guidance for the federal funds rate. To the extent that financial markets have at times interpreted the Committee's communications regarding the asset purchase program as also signaling information about the federal funds rate target, participants thought it might be important to reiterate the distinction between the two, and a clarification or strengthening of the forward guidance might help to reinforce this message. In part toward this end, participants mentioned several possible steps that might be considered, including stating that the Committee would not raise its target for the federal funds rate if the inflation rate was expected to run below a given level or providing additional information on the Committee's intentions regarding the federal funds rate after the 6-1/2 percent unemployment threshold was reached. One participant stressed that the Committee could use the full range of its tools, including forward guidance, to further improve the alignment of the medium-term outlook for employment and inflation with its longer-term goals. In light of the importance of credibility for the effectiveness of the forward guidance for the federal funds rate, participants noted the possible implications of uncertainties related to the Federal Reserve leadership transition in considering the appropriate timing of any enhancements to the guidance.
 
 In discussing the projections for the target federal funds rate at the end of 2016 as reported in the SEP, some participants highlighted the importance of communicating to the public the reasons why the policy rates that were projected by most, but not all, participants appeared to remain at low levels even as the unemployment rate and inflation by then were expected to be close to their longer-run values. In particular, if economic headwinds died away only slowly, as a number of participants expected, the achievement of the Committee's employment and price stability objectives would likely require keeping the federal funds rate below its longer-run equilibrium value for some time even as economic conditions improved. In light of the potential difficulties in succinctly conveying this information in the Committee's policy statement, the Chairman's postmeeting press conference and the minutes were mentioned as more appropriate vehicles for providing this information. A couple of participants also remarked that they viewed their projections of a low federal funds rate in 2016 as reflecting a commitment to support the economy by maintaining a more accommodative policy for longer.
 
@@ -318,7 +246,7 @@ It was agreed that the next meeting of the Committee would be held on Tuesday-We
 Notation Vote
 By notation vote completed on August 20, 2013, the Committee unanimously approved the minutes of the FOMC meeting held on July 30-31, 2013.
 
- 
+
 
 _____________________________
 

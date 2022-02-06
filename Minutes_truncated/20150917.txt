@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the September 16-17 meeting suggested that real gross domestic product (GDP) was expanding at a moderate pace in the third quarter. Labor market conditions continued to improve, but labor compensation gains were modest. Consumer price inflation remained below the Committee's longer-run objective of 2 percent and was restrained by further declines in energy prices and non-energy import prices. Survey measures of longer-run inflation expectations remained stable, while market-based measures of inflation compensation moved lower.
 
 Total nonfarm payroll employment expanded at a solid pace in July and August. The unemployment rate stayed at 5.3 percent in July but fell to 5.1 percent in August. With the labor force participation rate unchanged over this period, the employment-to-population ratio edged up. The share of workers employed part time for economic reasons remained elevated. The rate of private-sector job openings increased in July and was at a high level, while the rates of hiring and quits were little changed.
@@ -88,4 +88,3 @@ The Committee agreed to maintain the target range for the federal funds rate at 
 
 The Committee also maintained its policy of reinvesting principal payments from its agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
 
-At the conclusion of the discussion

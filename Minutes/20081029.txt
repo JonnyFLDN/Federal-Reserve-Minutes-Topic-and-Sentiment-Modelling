@@ -1,6 +1,6 @@
 October 28-29, 2008
 
-PRESENT:Mr. Bernanke, ChairmanMr. Geithner, Vice ChairmanMs. DukeMr. FisherMr. KohnMr. KrosznerMs. PianaltoMr. PlosserMr. SternMr. Warsh 
+PRESENT:Mr. Bernanke, ChairmanMr. Geithner, Vice ChairmanMs. DukeMr. FisherMr. KohnMr. KrosznerMs. PianaltoMr. PlosserMr. SternMr. Warsh
 
 Ms. Cumming, Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate Members of the Federal Open Market Committee
 
@@ -54,7 +54,7 @@ In the discussion of System open market operations over the period, it was noted
 
 In view of a further widening in financial market strains internationally, the Committee considered proposals to establish temporary reciprocal currency ("swap") arrangements with several additional foreign central banks. Members unanimously approved the following resolution, which effectively permitted the Foreign Currency Subcommittee to establish a swap line with the Reserve Bank of New Zealand.
 
-"The FOMC amends paragraph 1.A. of the Authorization for Foreign Currency Operations to include the New Zealand dollar in the list of foreign currencies in which the Federal Reserve Bank of New York may transact for the System Open Market Account." 
+"The FOMC amends paragraph 1.A. of the Authorization for Foreign Currency Operations to include the New Zealand dollar in the list of foreign currencies in which the Federal Reserve Bank of New York may transact for the System Open Market Account."
 
 Meeting participants also discussed a proposal to set up temporary liquidity-related swap arrangements with the central banks of Mexico, Brazil, Korea, and Singapore. In their remarks, participants focused on the outlook for complementarity between these swaps and the new short-term liquidity facility that the International Monetary Fund was considering; on the governance and structure of the swap lines; and on the particular countries included. Several participants pointed to the international reserves held by the countries and the importance of ensuring that these temporary swap lines, like the others that had been established during this period, be used only for the purposes intended. On balance, the Committee concluded that in current circumstances the swap arrangements with these four large and systemically important economies were appropriate, and it unanimously approved the following resolutions.
 
@@ -134,15 +134,15 @@ In the discussion of monetary policy for the intermeeting period, Committee memb
 
 At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
 
-"The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output. To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with reducing the federal funds rate to an average of around 1 percent." 
+"The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output. To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with reducing the federal funds rate to an average of around 1 percent."
 
 The vote encompassed approval of the statement below to be released at 2:15 p.m.:
 
-"The Federal Open Market Committee decided today to lower its target for the federal funds rate 50 basis points to 1 percent. 
+"The Federal Open Market Committee decided today to lower its target for the federal funds rate 50 basis points to 1 percent.
 
 The pace of economic activity appears to have slowed markedly, owing importantly to a decline in consumer expenditures. Business equipment spending and industrial production have weakened in recent months, and slowing economic activity in many foreign economies is damping the prospects for U.S. exports. Moreover, the intensification of financial market turmoil is likely to exert additional restraint on spending, partly by further reducing the ability of households and businesses to obtain credit.
 
-In light of the declines in the prices of energy and other commodities and the weaker prospects for economic activity, the Committee expects inflation to moderate in coming quarters to levels consistent with price stability. 
+In light of the declines in the prices of energy and other commodities and the weaker prospects for economic activity, the Committee expects inflation to moderate in coming quarters to levels consistent with price stability.
 
 Recent policy actions, including today's rate reduction, coordinated interest rate cuts by central banks, extraordinary liquidity measures, and official steps to strengthen financial systems, should help over time to improve credit conditions and promote a return to moderate economic growth. Nevertheless, downside risks to growth remain. The Committee will monitor economic and financial developments carefully and will act as needed to promote sustainable economic growth and price stability."
 
@@ -156,13 +156,13 @@ It was agreed that the next meeting of the Committee would be held on Tuesday, D
 
 The meeting adjourned at 11:45 a.m.
 
-Conference CallsOn September 29, 2008, the Committee met by conference call to review recent developments and to consider changes to swap arrangements with foreign central banks. Amid signs of growing strains in money markets, the discussion focused on recent Federal Reserve actions and on potential expansions in official liquidity facilities. In light of severe pressures in dollar funding markets abroad, the Committee unanimously approved both extending the liquidity-related swap arrangements with foreign central banks an additional three months, through April 30, 2009, and increasing substantially the sizes of those existing arrangements. The enlarged facilities would support the provision of U.S. dollar liquidity in amounts of up to $30 billion by the Bank of Canada, $80 billion by the Bank of England, $120 billion by the Bank of Japan, $15 billion by Danmarks Nationalbank, $240 billion by the European Central Bank, $15 billion by the Norges Bank, $30 billion by the Reserve Bank of Australia, $30 billion by Sveriges Riksbank, and $60 billion by the Swiss National Bank. In addition, the Committee was briefed on plans for implementation of a provision in pending legislation that would allow the Federal Reserve to begin immediately to pay interest on reserves held by depository institutions, and on the proposed acquisition of Wachovia by Citigroup. 
+Conference CallsOn September 29, 2008, the Committee met by conference call to review recent developments and to consider changes to swap arrangements with foreign central banks. Amid signs of growing strains in money markets, the discussion focused on recent Federal Reserve actions and on potential expansions in official liquidity facilities. In light of severe pressures in dollar funding markets abroad, the Committee unanimously approved both extending the liquidity-related swap arrangements with foreign central banks an additional three months, through April 30, 2009, and increasing substantially the sizes of those existing arrangements. The enlarged facilities would support the provision of U.S. dollar liquidity in amounts of up to $30 billion by the Bank of Canada, $80 billion by the Bank of England, $120 billion by the Bank of Japan, $15 billion by Danmarks Nationalbank, $240 billion by the European Central Bank, $15 billion by the Norges Bank, $30 billion by the Reserve Bank of Australia, $30 billion by Sveriges Riksbank, and $60 billion by the Swiss National Bank. In addition, the Committee was briefed on plans for implementation of a provision in pending legislation that would allow the Federal Reserve to begin immediately to pay interest on reserves held by depository institutions, and on the proposed acquisition of Wachovia by Citigroup.
 
 On October 7, 2008, the Committee again met by conference call. Stresses in financial markets had continued to increase: Interest-rate spreads in interbank funding markets had widened markedly, corporate and municipal bond yields had risen, and equity prices had dropped sharply. For the first time in many years, the net asset value of a major money market fund had fallen below $1 per share; this event sparked a flight out of prime money market funds and caused a severe impairment of the functioning of the commercial paper market. Since the September 16 FOMC meeting, indicators of economic activity in both the United States and in major foreign countries had come in weaker than expected. In the United States, automobile sales, capital goods shipments, and private payrolls had fallen notably. Elsewhere, indicators of economic activity and sentiment had deteriorated in a broad range of important foreign economies. Prices of crude oil and other commodities had dropped substantially, and some measures of inflation expectations had declined. Participants agreed that downside risks to economic growth had increased and upside risks to inflation had diminished. Participants discussed the considerable expansion of Federal Reserve liquidity in recent months. Most agreed that these actions to provide liquidity had had a beneficial impact. Nonetheless, financial conditions were exerting considerable restraint on economic activity.
 
 All members judged that a significant easing in policy at this time was appropriate to foster moderate economic growth and to reduce the downside risks to economic activity. Members also welcomed the opportunity to coordinate this policy action with similar measures by the Bank of Canada, the Bank of England, the European Central Bank, Sveriges Riksbank, and the Swiss National Bank. By showing that policymakers around the globe were working closely together, had a similar view of global economic conditions, and were willing to take strong actions to address those conditions, coordinated action could help to bolster consumer and business confidence and so yield greater economic benefits than unilateral action.
 
-At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive: 
+At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
 
 "The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output. To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with reducing the federal funds rate to an average of around 1-1/2 percent."
 
@@ -170,7 +170,7 @@ The vote encompassed approval of the statement below:
 
 "The Federal Open Market Committee has decided to lower its target for the federal funds rate 50 basis points to 1-1/2 percent. The Committee took this action in light of evidence pointing to a weakening of economic activity and a reduction in inflationary pressures.
 
-Incoming economic data suggest that the pace of economic activity has slowed markedly in recent months. Moreover, the intensification of financial market turmoil is likely to exert additional restraint on spending, partly by further reducing the ability of households and businesses to obtain credit. Inflation has been high, but the Committee believes that the decline in energy and other commodity prices and the weaker prospects for economic activity have reduced the upside risks to inflation. 
+Incoming economic data suggest that the pace of economic activity has slowed markedly in recent months. Moreover, the intensification of financial market turmoil is likely to exert additional restraint on spending, partly by further reducing the ability of households and businesses to obtain credit. Inflation has been high, but the Committee believes that the decline in energy and other commodity prices and the weaker prospects for economic activity have reduced the upside risks to inflation.
 
 The Committee will monitor economic and financial developments carefully and will act as needed to promote sustainable economic growth and price stability."
 
@@ -196,4 +196,4 @@ Brian F. MadiganSecretary
 
 1. Attended Wednesday's session only. Return to text
 
- Return to top
+Return to top

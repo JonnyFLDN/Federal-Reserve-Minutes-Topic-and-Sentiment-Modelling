@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 January 26-27, 2021
 
@@ -584,7 +512,7 @@ Participants noted that the COVID-19 pandemic was causing tremendous human and e
 
 Participants observed that the resurgence in COVID-19 infections and associated social-distancing measures were restraining activity in some sectors, particularly in industries such as travel and leisure and hospitality. Most participants expected that the stimulus provided by the passage of the CAA in December, the likelihood of additional fiscal support, and anticipated continued progress in vaccinations would lead to a sizable boost in economic activity. Even so, participants noted that economic activity and employment were currently well below levels consistent with achieving maximum employment.
 
-Participants commented on improved prospects for household spending over the course of the year, in part reflecting fiscal support. They saw progress on vaccinations as essential for supporting further gains in aggregate consumer spending and for the economic recovery more generally. In commenting on recent data for household spending, most participants discussed the composition of expenditures, with strong spending on many goods, especially durables, and weakness in spending on some services, especially in travel and in leisure and hospitality. The relative strength in consumer spending on goods was supported by fiscal programs such as federal stimulus payments and expanded unemployment benefits as well as by accommodative monetary policy. The weakness in services spending was largely attributed to the pandemic and associated social-distancing measures, which limited spending on services that depend heavily on in-person contact.  Increased government transfers to households, combined with reduced outlays on some services, had contributed to a historically large increase in aggregate household savings last year. Participants also observed that residential investment and home sales remained robust; low interest rates were viewed as an important factor supporting the strength in housing activity.
+Participants commented on improved prospects for household spending over the course of the year, in part reflecting fiscal support. They saw progress on vaccinations as essential for supporting further gains in aggregate consumer spending and for the economic recovery more generally. In commenting on recent data for household spending, most participants discussed the composition of expenditures, with strong spending on many goods, especially durables, and weakness in spending on some services, especially in travel and in leisure and hospitality. The relative strength in consumer spending on goods was supported by fiscal programs such as federal stimulus payments and expanded unemployment benefits as well as by accommodative monetary policy. The weakness in services spending was largely attributed to the pandemic and associated social-distancing measures, which limited spending on services that depend heavily on in-person contact. Increased government transfers to households, combined with reduced outlays on some services, had contributed to a historically large increase in aggregate household savings last year. Participants also observed that residential investment and home sales remained robust; low interest rates were viewed as an important factor supporting the strength in housing activity.
 
 Most participants noted that the economic downturn had not fallen equally on all Americans and that those least able to shoulder the burden—in particular, lower-income and Black and Hispanic households—had been the hardest hit by the pandemic. Many participants stressed that sustained support from fiscal policy would help address the hardships faced by these groups and that monetary policy could also help by promoting the economy's return to maximum employment and price stability.
 
@@ -639,7 +567,7 @@ In assessing the appropriate stance of monetary policy, the Committee will conti
 
 Voting for this action: Jerome H. Powell, John C. Williams, Thomas I. Barkin, Raphael W. Bostic, Michelle W. Bowman, Lael Brainard, Richard H. Clarida, Mary C. Daly, Charles L. Evans, Randal K. Quarles, and Christopher J. Waller.
 
-Voting against this action:  None.
+Voting against this action: None.
 
 Consistent with the Committee's decision to leave the target range for the federal funds rate unchanged, the Board of Governors voted unanimously to leave the interest rates on required and excess reserve balances at 0.10 percent. The Board of Governors also voted unanimously to approve establishment of the primary credit rate at the existing level of 0.25 percent, effective January 28, 2021.
 
@@ -647,7 +575,6 @@ It was agreed that the next meeting of the Committee would be held on Tuesday–
 
 Notation Vote
 By notation vote completed on January 5, 2021, the Committee unanimously approved the minutes of the Committee meeting held on December 15–16, 2020.
-
 
 _______________________
 James A. Clouse

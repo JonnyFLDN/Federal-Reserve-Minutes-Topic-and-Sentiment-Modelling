@@ -73,7 +73,7 @@ election of the President of the Federal Reserve Bank of Dallas.
 Gary H. Stern, President of the Federal Reserve Bank of Minneapolis, with
 Janet L. Yellen, President of the Federal Reserve Bank of San Francisco, as alternate.
 
- By unanimous vote, the following officers of the Federal Open Market Committee were
+By unanimous vote, the following officers of the Federal Open Market Committee were
 selected to serve until the selection of their successors at the first regularly scheduled meeting after
 December 31, 2005, with the understanding that in the event of the discontinuance of their official
 connection with the Board of Governors or with a Federal Reserve Bank, they would cease to have
@@ -95,19 +95,16 @@ in the form shown below.
 AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
 (Reaffirmed February 1, 2005)
 
-
 1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New
 York, for System Open Market Account, to the extent necessary to carry out the Committee's
 foreign currency directive and express authorizations by the Committee pursuant thereto, and in
 conformity with such procedural instructions as the Committee may issue from time to time:
-
 
 A. To purchase and sell the following foreign currencies in the form of cable transfers through
 spot or forward transactions on the open market at home and abroad, including transactions with
 the U.S. Treasury, with the U.S. Exchange Stabilization Fund established by Section 10 of the Gold
 Reserve Act of 1934, with foreign monetary authorities, with the Bank for International
 Settlements, and with other international financial institutions:
-
 
 
 
@@ -272,7 +269,6 @@ B. Any swap drawing proposed by a foreign bank exceeding the larger of (i) $200 
 3. The Manager shall also consult with the Subcommittee or the Chairman about proposed swap
 drawings by the System and about any operations that are not of a routine character.
 
-
 By unanimous vote, the Authorization for Domestic Open Market Operations was
 amended and approved in the form shown below. The amendment involved removing from
 paragraph 1(a) the reference to the limit on the amount by which the System Open Market Account
@@ -361,7 +357,6 @@ developments in domestic financial markets and on System open market transaction
 government securities and federal agency obligations during the period December 14, 2004 to
 February 1, 2005. By unanimous vote, the Committee ratified these transactions.
 
-
 At this meeting the Committee engaged in a broad-ranging discussion of the pros and
 cons of formulating a numerical definition of the price-stability objective of monetary policy. A
 staff presentation on the topic included a review of the potential costs and benefits of introducing
@@ -377,7 +372,6 @@ such a shift might appear to be inconsistent with the Committee’s dual mandate
 maximum employment as well as price stability or that it might inappropriately bias or constrain policy at times; in any case, with inflation expectations well-contained over recent years, the
 benefits of announcing a specific inflation objective were not likely to be large. The Committee
 decided to defer further discussion.
-
 
 The information reviewed at this meeting suggested that the economy expanded at a
 solid pace in recent months. Consumer spending and the housing market continued to exhibit
@@ -480,7 +474,6 @@ costs associated with monetary policy tightening. Because changes in interest ra
 deposits typically lag those in market interest rates, the growth of that component slowed in the
 second half of 2004. By contrast, growth of small time deposits, whose yields closely track market
 rates, picked up. Currency growth was about flat in December.
-
 
 In the staff forecast prepared for this meeting, the economy was seen as likely to expand
 at a pace a little above that of its longer-run potential over this year and next, while hiring was
@@ -624,24 +617,18 @@ Votes for this action: Messrs. Greenspan, Geithner,
 Bernanke, Ms. Bies, Messrs. Ferguson, Gramlich, Guynn,
 Kohn, Moskow, Olson, Santomero, and Stern.
 
-Vote against this action: None. 
-
+Vote against this action: None.
 
 Mr. Guynn voted as alternate member.
 
-
 It was agreed that the next meeting of the Committee would be held on Tuesday, March 22, 2005.
 
-
-
 The meeting adjourned at 12:35 p.m. on February 2, 2005.
-
 
 Notation Vote
 By notation vote completed on December 31, 2004, the Committee unanimously
 approved the minutes of the meeting of the Federal Open Market Committee held on December 14,
 2004.
-
 
 
 
@@ -658,10 +645,7 @@ price-stability objective for monetary policy.Return to text
 Manager was satisfactory to the board of directors of the Federal Reserve Bank of
 New York.Return to text
 
-
 Return to top
-
-
 
 
 

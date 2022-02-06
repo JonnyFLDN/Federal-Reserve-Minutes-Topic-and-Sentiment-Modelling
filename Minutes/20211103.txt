@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 November 2-3, 2021
 
@@ -366,7 +294,7 @@ In assessing the appropriate stance of monetary policy, the Committee will conti
 
 Voting for this action: Jerome H. Powell, John C. Williams, Thomas I. Barkin, Raphael W. Bostic, Michelle W. Bowman, Lael Brainard, Richard H. Clarida, Mary C. Daly, Charles L. Evans, Randal K. Quarles, and Christopher J. Waller.
 
-Voting against this action:  None.
+Voting against this action: None.
 
 Consistent with the Committee's decision to leave the target range for the federal funds rate unchanged, the Board voted unanimously to maintain the interest rate paid on reserve balances at 0.15 percent, effective November 4, 2021. The Board also voted unanimously to approve establishment of the primary credit rate at the existing level of 0.25 percent, effective November 4, 2021.
 

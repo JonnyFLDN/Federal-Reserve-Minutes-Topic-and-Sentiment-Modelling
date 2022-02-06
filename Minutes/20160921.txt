@@ -1,152 +1,80 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 September 20-21, 2016
 
-A joint meeting of the Federal Open Market Committee and the Board of Governors was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, September 20, 2016, at 1:00 p.m. and continued on Wednesday, September 21, 2016, at 9:00 a.m.1 
+A joint meeting of the Federal Open Market Committee and the Board of Governors was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, September 20, 2016, at 1:00 p.m. and continued on Wednesday, September 21, 2016, at 9:00 a.m.1
 
 PRESENT:
 Janet L. Yellen, Chair
@@ -232,7 +160,7 @@ Selection of Committee Officer
 By unanimous vote, the Committee selected Michael Held to serve as deputy general counsel, effective September 20, 2016, until the selection of his successor at the first regularly scheduled meeting of the Committee in 2017.
 
 Revisions to Documents Governing Foreign Currency Operations
-The manager of the System Open Market Account (SOMA) briefed the Committee on a staff proposal to revise the documents governing the System's foreign currency operations, including the Authorization for Foreign Currency Operations (Foreign Authorization), the Foreign Currency Directive (Foreign Directive), and the Procedural Instructions with Respect to Foreign Currency Operations (Procedural Instructions). The objectives of the proposal were to simplify the organization of the documents, to better reflect the current operating environment, and to clarify guidance provided to the Federal Reserve Bank selected by the Committee to execute open market transactions (Selected Bank). The staff proposed incorporating the material in the Foreign Authorization, Foreign Directive, and Procedural Instructions into a new authorization and directive that would parallel the domestic authorization and directive; the Procedural Instructions document would no longer be necessary. The proposed Foreign Authorization was structured by operation type, including standalone spot and forward transactions; warehousing of funds for the Exchange Stabilization Fund; reciprocal currency arrangements, and standing dollar and foreign currency liquidity swaps; and foreign currency holdings. Proposed substantive changes to procedures and governance included the removal of the Selected Bank's ability to independently decide, within limits, to enter into standalone spot and forward transactions, the addition of a provision for the Foreign Currency Subcommittee (Subcommittee) to give additional guidance to the Selected Bank regarding management of SOMA foreign currency holdings, and the incorporation of procedures that would allow decisions to be made promptly under circumstances in which the normal procedures would not be feasible. Additionally, the definition of and provisions governing the Subcommittee were removed from the Foreign Authorization and incorporated into the Committee's Rules of Procedure and Rules of Organization, as appropriate. By unanimous vote, the proposed Foreign Authorization, Foreign Directive, Rules of Organization, and Rules of Procedure were approved, and the Procedural Instructions were rescinded.4 
+The manager of the System Open Market Account (SOMA) briefed the Committee on a staff proposal to revise the documents governing the System's foreign currency operations, including the Authorization for Foreign Currency Operations (Foreign Authorization), the Foreign Currency Directive (Foreign Directive), and the Procedural Instructions with Respect to Foreign Currency Operations (Procedural Instructions). The objectives of the proposal were to simplify the organization of the documents, to better reflect the current operating environment, and to clarify guidance provided to the Federal Reserve Bank selected by the Committee to execute open market transactions (Selected Bank). The staff proposed incorporating the material in the Foreign Authorization, Foreign Directive, and Procedural Instructions into a new authorization and directive that would parallel the domestic authorization and directive; the Procedural Instructions document would no longer be necessary. The proposed Foreign Authorization was structured by operation type, including standalone spot and forward transactions; warehousing of funds for the Exchange Stabilization Fund; reciprocal currency arrangements, and standing dollar and foreign currency liquidity swaps; and foreign currency holdings. Proposed substantive changes to procedures and governance included the removal of the Selected Bank's ability to independently decide, within limits, to enter into standalone spot and forward transactions, the addition of a provision for the Foreign Currency Subcommittee (Subcommittee) to give additional guidance to the Selected Bank regarding management of SOMA foreign currency holdings, and the incorporation of procedures that would allow decisions to be made promptly under circumstances in which the normal procedures would not be feasible. Additionally, the definition of and provisions governing the Subcommittee were removed from the Foreign Authorization and incorporated into the Committee's Rules of Procedure and Rules of Organization, as appropriate. By unanimous vote, the proposed Foreign Authorization, Foreign Directive, Rules of Organization, and Rules of Procedure were approved, and the Procedural Instructions were rescinded.4
 
 AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
 (As amended effective September 20, 2016)

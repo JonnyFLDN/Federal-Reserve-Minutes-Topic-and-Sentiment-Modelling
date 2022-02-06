@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 June 13-14, 2017
 
@@ -246,7 +174,7 @@ POLICY NORMALIZATION PRINCIPLES AND PLANS
 
 All participants agreed to augment the Committee's Policy Normalization Principles and Plans by providing the following additional details regarding the approach the FOMC intends to use to reduce the Federal Reserve's holdings of Treasury and agency securities once normalization of the level of the federal funds rate is well under way.1
 
-1.  The Committee's Policy Normalization Principles and Plans were adopted on September 16, 2014, and are available at www.federalreserve.gov/monetarypolicy/files/FOMC_PolicyNormalization.pdf. On March 18, 2015, the Committee adopted an addendum to the Policy Normalization Principles and Plans, which is available at www.federalreserve.gov/monetarypolicy/files/FOMC_PolicyNormalization.20150318.pdf. Return to text
+1. The Committee's Policy Normalization Principles and Plans were adopted on September 16, 2014, and are available at www.federalreserve.gov/monetarypolicy/files/FOMC_PolicyNormalization.pdf. On March 18, 2015, the Committee adopted an addendum to the Policy Normalization Principles and Plans, which is available at www.federalreserve.gov/monetarypolicy/files/FOMC_PolicyNormalization.20150318.pdf. Return to text
 
 Staff Review of the Economic Situation
 The information reviewed for the June 13-14 meeting showed that labor market conditions continued to strengthen in recent months and suggested that real gross domestic product (GDP) was expanding at a faster pace in the second quarter than in the first quarter. The 12-month change in overall consumer prices, as measured by the price index for personal consumption expenditures (PCE), slowed a bit further in April; total consumer price inflation and core inflation, which excludes consumer food and energy prices, were both running somewhat below 2 percent. Survey-based measures of longer-run inflation expectations were little changed on balance.
