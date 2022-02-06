@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 January 26-27, 2016
 
@@ -249,7 +177,6 @@ James Bullard, President of the Federal Reserve Bank of St. Louis, with Robert S
 Esther L. George, President of the Federal Reserve Bank of Kansas City, with Neel Kashkari, President of the Federal Reserve Bank of Minneapolis, as alternate
 
 By unanimous vote, the following officers of the Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2017:
-
 
 By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account (SOMA).
 
@@ -470,7 +397,7 @@ Participants noted that the statement reflects an exceptionally high degree of c
 
 All participants but one supported adopting the proposed amendments. Participants agreed that it was appropriate to release the amended statement, which is reproduced below, in advance of the Monetary Policy Report and testimony, which were scheduled for mid-February.
 
- 
+
 
 STATEMENT ON LONGER-RUN GOALS AND MONETARY POLICY STRATEGY
 (As amended effective January 26, 2016)
@@ -597,11 +524,11 @@ It was agreed that the next meeting of the Committee would be held on Tuesday-We
 Notation Vote
 By notation vote completed on January 5, 2016, the Committee unanimously approved the minutes of the Committee meeting held on December 16-17, 2015.
 
- 
+
 
 _____________________________
 
- 
+
 
 1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text
 

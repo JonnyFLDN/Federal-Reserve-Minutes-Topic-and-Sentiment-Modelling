@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the April 28-29 meeting indicated that real gross domestic product (GDP) only edged up in the first quarter, with growth likely held down, in part, by transitory factors. The pace of improvement in labor market conditions moderated somewhat, and the unemployment rate was unchanged over the intermeeting period. Consumer price inflation continued to run below the FOMC's longer-run objective of 2 percent, partly restrained by earlier declines in energy prices along with further decreases in non-energy import prices. Market-based measures of inflation compensation were still low, while survey measures of longer-run inflation expectations remained stable.
 
 Payroll employment expanded at a solid pace in the first quarter, on average, but the gain in March was smaller than in earlier months. The unemployment rate remained at 5.5 percent in March, the labor force participation rate edged down, and the employment-to- population ratio was little changed. The share of workers employed part time for economic reasons was also little changed. In the private sector, the rate of job openings edged up in February and was well above its pre-recession level, while the rates of hiring and of quits were about flat and remained slightly above their levels of a year ago.
@@ -77,4 +77,3 @@ The Committee agreed to maintain the target range for the federal funds rate at 
 
 The Committee also decided to maintain its policy of reinvesting principal payments from agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions. The Committee agreed to reiterate its expectation that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run.
 
-At the conclusion of the discussion

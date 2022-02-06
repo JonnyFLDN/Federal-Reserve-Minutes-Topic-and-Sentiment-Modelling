@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 April 24-25, 2012
 
@@ -332,7 +260,7 @@ It was agreed that the next meeting of the Committee would be held on Tuesday-We
 Notation Vote
 By notation vote completed on April 2, 2012, the Committee unanimously approved the minutes of the FOMC meeting held on March 13, 2012.
 
- 
+
 
 _____________________________
 

@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 December 15-16, 2020
 A joint meeting of the Federal Open Market Committee and the Board of Governors was held by videoconference on Tuesday, December 15, 2020, at 1:00 p.m. and continued on Wednesday, December 16, 2020, at 9:00 a.m.1
@@ -372,19 +300,19 @@ By notation vote completed on November 24, 2020, the Committee unanimously appro
 _______________________
 
 James A. Clouse
-Secretary 
+Secretary
 
- 1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text
+1. The Federal Open Market Committee is referenced as the "FOMC" and the "Committee" in these minutes. Return to text
 
- 2. Elected as an Alternate by the Federal Reserve Bank of New York, effective November 11, 2020. Return to text
+2. Elected as an Alternate by the Federal Reserve Bank of New York, effective November 11, 2020. Return to text
 
- 3. Attended Tuesday's session only. Return to text
+3. Attended Tuesday's session only. Return to text
 
- 4. Attended through the discussion of developments in financial markets and open market operations. Return to text
+4. Attended through the discussion of developments in financial markets and open market operations. Return to text
 
- 5. The approved FIMA Desk Resolution, which updates the July 2020 resolution with a new expiration date, is available along with other Committee organizational documents at https://www.federalreserve.gov/monetarypolicy/rules_authorizations.htm. Return to text
+5. The approved FIMA Desk Resolution, which updates the July 2020 resolution with a new expiration date, is available along with other Committee organizational documents at https://www.federalreserve.gov/monetarypolicy/rules_authorizations.htm. Return to text
 
- 6. The statement approved at the meeting included a drafting error. By notation vote shortly after the meeting concluded, the Committee unanimously approved a corrected version of the statement for release at 2:00 p.m. Return to text
+6. The statement approved at the meeting included a drafting error. By notation vote shortly after the meeting concluded, the Committee unanimously approved a corrected version of the statement for release at 2:00 p.m. Return to text
 
 Board of Governors of the Federal Reserve System
 

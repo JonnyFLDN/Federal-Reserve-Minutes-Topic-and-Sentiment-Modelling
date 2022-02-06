@@ -50,7 +50,7 @@ The Manager of the System Open Market Account reported on recent developments in
 
 The information reviewed at the August meeting indicated that the economy expanded at a moderate pace in the second quarter, but recent financial market developments highlighted some of the stresses that the economy faced going forward. Both consumer and business spending recorded gains in the second quarter, and net exports contributed importantly to the rise in real gross domestic product (GDP). However, residential construction continued to fall sharply, the labor market weakened further, and industrial production declined. Core consumer price inflation remained relatively stable, while headline inflation was elevated as a result of large increases in food and energy prices.
 
-Labor demand continued to contract in July. Private nonfarm payroll employment fell in July at a pace only a bit less than the average monthly rate during the first six months of the year. By industry, the pattern of job losses was roughly similar to those earlier in the year, although July's report showed a smaller decline in construction than earlier. Nonbusiness services, which include health and education, remained the only notable source of net additions to employment. Both the average workweek and aggregate hours edged down in July. The unemployment rate rose in July and was about 1 percentage point above its level of a year earlier, while the labor force participation rate was about unchanged. 
+Labor demand continued to contract in July. Private nonfarm payroll employment fell in July at a pace only a bit less than the average monthly rate during the first six months of the year. By industry, the pattern of job losses was roughly similar to those earlier in the year, although July's report showed a smaller decline in construction than earlier. Nonbusiness services, which include health and education, remained the only notable source of net additions to employment. Both the average workweek and aggregate hours edged down in July. The unemployment rate rose in July and was about 1 percentage point above its level of a year earlier, while the labor force participation rate was about unchanged.
 
 Industrial production declined in the second quarter after having been flat over the previous two quarters. Motor vehicle assemblies tumbled in the second quarter because of soft demand and the effects of strikes. Production of high-tech equipment continued to expand at a moderate pace; however, the available indicators of high-tech manufacturing activity pointed to slower production in the current quarter. The output of other manufacturing industries contracted, on balance, in the second quarter, and indicators of near-term production generally pointed to further declines, including a sizable retrenchment in the scheduled production of motor vehicles. The factory utilization rate held steady in June at a rate below its long-run average but was still well above its low rate from 2001 through 2002.
 
@@ -144,7 +144,7 @@ Mr. Lockhart voted as alternate member at this meeting.
 
 Notation VotesBy notation vote completed on July 14, 2008, the Committee unanimously approved the minutes of the FOMC meeting held on June 24-25, 2008.
 
-By notation vote completed on July 29, 2008, the Committee unanimously approved the following resolution: 
+By notation vote completed on July 29, 2008, the Committee unanimously approved the following resolution:
 
 Swap AuthorizationThe Federal Open Market Committee directs the Federal Reserve Bank of New York to increase the amount available from the System Open Market Account under the existing reciprocal currency arrangement ("swap" arrangement) with the European Central Bank to an amount not to exceed $55 billion. Within that aggregate limit, draws of up to $25 billion are hereby authorized. The swap arrangement continues to be authorized through January 30, 2009, unless extended by the Federal Open Market Committee.
 
@@ -152,4 +152,4 @@ _____________________________
 
 Brian F. MadiganSecretary
 
- Return to top
+Return to top

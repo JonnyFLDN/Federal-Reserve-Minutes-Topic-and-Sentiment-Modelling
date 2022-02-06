@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 April 28–29, 2020
 A joint meeting of the Federal Open Market Committee and the Board of Governors was held by conference call on Tuesday, April 28, 2020, at 1:00 p.m. and continued on Wednesday, April 29, 2020, at 9:00 a.m.1
@@ -350,7 +278,7 @@ To support the flow of credit to households and businesses, the Federal Reserve 
 
 Voting for this action: Jerome H. Powell, John C. Williams, Michelle W. Bowman, Lael Brainard, Richard H. Clarida, Patrick Harker, Robert S. Kaplan, Neel Kashkari, Loretta J. Mester, and Randal K. Quarles.
 
-Voting against this action:  None.
+Voting against this action: None.
 
 Consistent with the Committee's decision to leave the target range for the federal funds rate unchanged, the Board of Governors voted unanimously to leave the interest rates on required and excess reserve balances at 0.10 percent. The Board of Governors also voted unanimously to approve establishment of the primary credit rate at the existing level of 0.25 percent, effective April 30, 2020.
 

@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the July 26-27 meeting indicated that labor market conditions generally improved in June and that growth in real gross domestic product (GDP) was moderate in the second quarter. Consumer price inflation continued to run below the Committee's longer-run objective of 2 percent, restrained in part by earlier decreases in energy prices and in prices of non-energy imports. Most survey-based measures of longer-run inflation expectations were little changed, on balance, while market-based measures of inflation compensation remained low.
 
 Total nonfarm payroll employment increased briskly in June, but the increase for the second quarter as a whole was noticeably slower than in the first quarter. The unemployment rate rose to 4.9 percent in June, partly reversing its decline in the previous month. The labor force participation rate edged up in June, while the employment-to-population ratio edged down. The share of workers employed part time for economic reasons declined in June after a similarly sized increase in May. The rate of private-sector job openings declined in May, albeit from an elevated level, and the rates of hires and of quits were both unchanged. The four-week moving average of initial claims for unemployment insurance benefits remained low through mid-July. Average hourly earnings for all employees increased 2-1/2 percent over the 12 months ending in June.
@@ -103,4 +103,3 @@ Members again agreed that, in determining the timing and size of future adjustme
 
 The Committee also decided to maintain its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipated doing so until normalization of the level of the federal funds rate is well under way. Members noted that this policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
 
-At the conclusion of the discussion

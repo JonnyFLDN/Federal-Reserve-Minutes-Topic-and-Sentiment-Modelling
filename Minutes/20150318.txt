@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 March 17-18, 2015
 
@@ -247,7 +175,7 @@ In their discussion regarding strategies for reducing ON RRP usage, should it be
 
 Participants also discussed whether to communicate to the public additional details regarding the approach they intend to take when it becomes appropriate to begin the normalization process, including the width of the target range for the federal funds rate, the settings of the IOER and ON RRP rates, and the use of supplementary tools. A couple of participants suggested communicating a specific commitment to reducing ON RRP capacity soon after liftoff. However, a number of participants emphasized that maintaining control of short-term interest rates would be paramount in the initial stages of policy normalization, and that it was difficult to know in advance when a reduction would be appropriate. They therefore desired to retain some flexibility over the timing of any reduction. That said, many participants agreed that an elevated aggregate capacity for the facility would likely be appropriate only for a short period after liftoff.
 
-At the conclusion of their discussion, all participants agreed to augment the Committee's Policy Normalization Principles and Plans by providing the following additional details regarding the operational approach the FOMC intends to use when it becomes appropriate to begin normalizing the stance of monetary policy.3 
+At the conclusion of their discussion, all participants agreed to augment the Committee's Policy Normalization Principles and Plans by providing the following additional details regarding the operational approach the FOMC intends to use when it becomes appropriate to begin normalizing the stance of monetary policy.3
 
 When economic conditions warrant the commencement of policy firming, the Federal Reserve intends to:
 
@@ -367,8 +295,6 @@ _____________________________
 
 Thomas Laubach
 Secretary
- 
- 
 
 1. Attended the joint session of the Federal Open Market Committee and the Board of Governors. Return to text
 

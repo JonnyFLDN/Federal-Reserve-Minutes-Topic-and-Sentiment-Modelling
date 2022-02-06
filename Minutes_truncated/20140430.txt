@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the April 29-30 meeting indicated that growth in economic activity paused in the first quarter as a whole, but that activity stepped up late in the quarter; this pattern reflected, in part, the temporary effects of the unusually cold and snowy weather earlier in the quarter and the unwinding of those effects later in the quarter. In March, payroll employment increased further, although the unemployment rate held steady and was still elevated. Consumer price inflation continued to run below the Committee's longer-run objective, but measures of longer-run inflation expectations remained stable.
 
 The unemployment rate stayed at 6.7 percent in March, but both the labor force participation rate and the employment-to-population ratio increased slightly. The rate of long-duration unemployment declined somewhat, but the share of workers employed part time for economic reasons moved up; both of these measures were still well above their pre-recession levels. Initial claims for unemployment insurance remained low over the intermeeting period. Although the rate of job openings moved up in February, the hiring rate was flat and continued to be subdued.
@@ -73,4 +73,3 @@ In their discussion of monetary policy in the period ahead, members noted that t
 
 The Committee agreed that no changes to its target range for the federal funds rate or its forward guidance were warranted at this meeting, aside from removing a short paragraph that was added when the forward guidance was updated at the March meeting and which noted that the change in the Committee's guidance did not signal a change in the Committee's policy intentions; members deemed this language no longer necessary.
 
-At the conclusion of the discussion

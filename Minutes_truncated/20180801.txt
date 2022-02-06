@@ -1,4 +1,4 @@
-Staff Review of the Economic Situation
+ Situation
 The information reviewed for the July 31-August 1 meeting indicated that labor market conditions continued to strengthen in recent months and that real gross domestic product (GDP) rose at a strong rate in the first half of the year. Consumer price inflation, as measured by the 12‑month percentage change in the price index for personal consumption expenditures (PCE), remained near 2 percent in June. Survey‑based measures of longer-run inflation expectations were little changed on balance.
 
 Total nonfarm payroll employment expanded at a strong pace again in June. The national unemployment rate moved up to 4.0 percent, but the labor force participation rate rose by a similar amount, leaving the employment-to-population ratio unchanged from May. The three-month moving averages of the unemployment rates for African Americans, Asians, and Hispanics were each at or below the lows achieved during the previous expansion. The share of workers employed part time for economic reasons edged down to its lowest level since late 2007. The rate of private-sector job openings ticked down in May but remained elevated, while the rate of quits moved higher; initial claims for unemployment insurance benefits continued to be low through mid-July.
@@ -99,4 +99,3 @@ After assessing the incoming data, current conditions, and the outlook for econo
 
 Members agreed that the timing and size of future adjustments to the target range for the federal funds rate would depend on their assessments of realized and expected economic conditions relative to the Committee's objectives of maximum employment and 2 percent inflation. They reiterated that this assessment would take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
 
-At the conclusion of the discussion

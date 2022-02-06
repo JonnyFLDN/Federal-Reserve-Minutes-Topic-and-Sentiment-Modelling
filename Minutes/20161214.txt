@@ -1,152 +1,80 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 December 13-14, 2016
 
-A joint meeting of the Federal Open Market Committee and the Board of Governors was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, December 13, 2016, at 1:00 p.m. and continued on Wednesday, December 14, 2016, at 9:00 a.m.1 
+A joint meeting of the Federal Open Market Committee and the Board of Governors was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, December 13, 2016, at 1:00 p.m. and continued on Wednesday, December 14, 2016, at 9:00 a.m.1
 
 PRESENT:
 Janet L. Yellen, Chair
@@ -351,7 +279,7 @@ Voting for this action: Janet L. Yellen, William C. Dudley, Lael Brainard, James
 
 Voting against this action: None.
 
-To support the Committee's decision to raise the target range for the federal funds rate, the Board of Governors voted unanimously to raise the interest rates on required and excess reserve balances 1/4 percentage point, to 3/4 percent, effective December 15, 2016. The Board of Governors also voted unanimously to approve a 1/4 percentage point increase in the primary credit rate (discount rate) to 1-1/4 percent, effective December 15, 2016.7 
+To support the Committee's decision to raise the target range for the federal funds rate, the Board of Governors voted unanimously to raise the interest rates on required and excess reserve balances 1/4 percentage point, to 3/4 percent, effective December 15, 2016. The Board of Governors also voted unanimously to approve a 1/4 percentage point increase in the primary credit rate (discount rate) to 1-1/4 percent, effective December 15, 2016.7
 
 It was agreed that the next meeting of the Committee would be held on Tuesday-Wednesday, January 31-February 1, 2017. The meeting adjourned at 10:05 a.m. on December 14, 2016.
 

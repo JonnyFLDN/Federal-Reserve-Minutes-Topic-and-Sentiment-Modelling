@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 January 28-29, 2014
 
@@ -242,13 +170,12 @@ By unanimous vote, the Committee selected Ben Bernanke to serve as Chairman thro
 
 By unanimous vote, the following officers of the Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2015:
 
-
 By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account.
 
 By unanimous vote, the Authorization for Domestic Open Market Operations was approved with an amendment that makes the structure of paragraphs 1.A and 1.B more similar. The Guidelines for the Conduct of System Open Market Operations in Federal-Agency Issues remained suspended.
 
 AUTHORIZATION FOR DOMESTIC OPEN MARKET OPERATIONS
-(As amended effective January 28, 2014) 
+(As amended effective January 28, 2014)
 
 1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, to the extent necessary to carry out the most recent domestic policy directive adopted at a meeting of the Committee:
 
@@ -275,7 +202,6 @@ Transactions undertaken with such accounts under the provisions of this paragrap
 6. In the execution of the Committee's decision regarding policy during any intermeeting period, the Committee authorizes and directs the Federal Reserve Bank of New York, upon the instruction of the Chairman of the Committee, to (i) adjust somewhat in exceptional circumstances the degree of pressure on reserve positions and hence the intended federal funds rate and to take actions that result in material changes in the composition and size of the assets in the System Open Market Account other than those anticipated by the Committee at its most recent meeting or (ii) undertake transactions of the type described in paragraphs 1.A and 1.B in order to appropriately address temporary disruptions of an operational or highly unusual nature in U.S. dollar funding markets. Any such adjustment as described in clause (i) shall be made in the context of the Committee's discussion and decision at its most recent meeting and the Committee's long-run objectives to foster maximum employment and price stability, and shall be based on economic, financial, and monetary developments during the intermeeting period. Consistent with Committee practice, the Chairman, if feasible, will consult with the Committee before making any instruction under this paragraph.
 
 The Committee voted unanimously to amend the Authorization for Foreign Currency Operations, the Foreign Currency Directive, and the Procedural Instructions with Respect to Foreign Currency Operations in the form shown below. The approval of these documents included approval of the System's warehousing agreement with the U.S. Treasury. These documents were modified to incorporate the dollar and foreign currency liquidity swap arrangements authorized by a resolution on October 29, 2013. Changes were made to the Authorization for Foreign Currency Operations and the Procedural Instructions with Respect to Foreign Currency Operations to align the treatment of the liquidity swap arrangements and that of the reciprocal currency arrangements that have been in place with the central banks of Mexico and Canada since 1994 as part of the North American Framework Agreement. The Authorization for Foreign Currency Operations was amended to remove language regarding the transmission of pertinent information on System foreign currency operations to appropriate officials of the Treasury Department because this language duplicated language in the Program for Security of FOMC Information.
-
 
 AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
 (As amended effective January 28, 2014)
@@ -528,14 +454,14 @@ Voting against this action: None.
 It was agreed that the next meeting of the Committee would be held on Tuesday-Wednesday, March 18-19, 2014. The meeting adjourned at 10:55 a.m. on January 29, 2014.
 
 Notation Vote
-By notation vote completed on January 7, 2014, the Committee unanimously approved the minutes of the Committee meeting held on December 17-18, 2013. 
+By notation vote completed on January 7, 2014, the Committee unanimously approved the minutes of the Committee meeting held on December 17-18, 2013.
 
 _____________________________
 
 William B. English
 Secretary
 
- 
+
 
 ____________________
 

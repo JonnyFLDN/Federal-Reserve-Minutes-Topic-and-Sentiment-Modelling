@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 June 19-20, 2012
 
@@ -215,7 +143,7 @@ By unanimous vote, Simon Potter was selected to serve at the pleasure of the Com
 
 By unanimous vote, the Committee selected James J. McAndrews to serve as Associate Economist, effective June 30, 2012, until the selection of his successor at the first regularly scheduled meeting of the Committee in 2013.
 
-By unanimous vote, the Committee amended the FOMC Policy on External Communications of Federal Reserve System Staff to clarify some specific aspects of the policy.3 
+By unanimous vote, the Committee amended the FOMC Policy on External Communications of Federal Reserve System Staff to clarify some specific aspects of the policy.3
 
 Discussion of Communications regarding Economic Projections
 Meeting participants discussed several possibilities for enhancing the clarity and transparency of the Committee's economic projections and their role in policy decisions and policy communications. In particular, participants noted that while the Summary of Economic Projections (SEP) provides information about their individual projections of key macroeconomic variables and about the path of monetary policy that each sees as appropriate and consistent with his or her projections, the SEP does not provide guidance about how those diverse views come together in the Committee's collective judgment about the outlook and appropriate policy as expressed in its postmeeting statement. Many participants indicated that if it were possible to construct a quantitative economic projection and associated path of appropriate policy that reflected the collective judgment of the Committee, such a projection could potentially be helpful in clarifying how the outlook and policy decisions are related. Participants discussed examples of the economic and policy projections published by a number of foreign central banks. Participants generally indicated a willingness to explore adjustments to the SEP, while highlighting the importance of communicating not only the Committee's collective judgment but also the diversity of their views regarding the economic outlook and monetary policy. Many participants noted that developing a quantitative forecast that reflects the Committee's collective judgment could be challenging, given the range of their views about the economy's structure and dynamics. Several participants judged that the incremental gains in transparency that would result from developing and presenting such a consensus projection would be modest, given the breadth of information already provided in the Committee's policy statements, the minutes of Federal Open Market Committee (FOMC) meetings, and the Chairman's press briefings. Participants agreed to continue to explore ways to increase clarity and transparency in the Committee's policy communications; many noted that the Committee had introduced a number of changes in its communications over the past year or so, and emphasized that further changes should be considered carefully. At the end of the discussion, the Chairman asked the subcommittee on communications to explore the feasibility and workability of potential approaches to developing an FOMC consensus forecast.
@@ -223,7 +151,7 @@ Meeting participants discussed several possibilities for enhancing the clarity a
 Developments in Financial Markets and the Federal Reserve's Balance Sheet
 The Manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets during the period since the FOMC met on April 24-25, 2012. He also reported on System open market operations, including the ongoing reinvestment into agency-guaranteed mortgage-backed securities (MBS) of principal payments received on SOMA holdings of agency debt and agency-guaranteed MBS as well as the operations related to the maturity extension program authorized at the September 20–21, 2011, FOMC meeting. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.
 
-By unanimous vote, the Authorization for Domestic Open Market Operations was amended to include the authority to conduct small-value operations for the purposes of routine testing of operational readiness. In addition, the Authorization was amended to include the authority to conduct intraday repurchase agreement (repo) transactions with foreign and international accounts to prevent daylight overdrafts in those accounts.4 
+By unanimous vote, the Authorization for Domestic Open Market Operations was amended to include the authority to conduct small-value operations for the purposes of routine testing of operational readiness. In addition, the Authorization was amended to include the authority to conduct intraday repurchase agreement (repo) transactions with foreign and international accounts to prevent daylight overdrafts in those accounts.4
 
 Staff Review of the Economic Situation
 The information reviewed at the June 19-20 meeting suggested that economic activity was expanding at a somewhat more modest pace than earlier in the year. Improvements in labor market conditions slowed in recent months, and the unemployment rate remained elevated. Consumer price inflation declined, primarily reflecting reductions in the prices of crude oil and gasoline, and measures of long-run inflation expectations continued to be stable.

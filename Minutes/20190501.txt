@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 A joint meeting of the Federal Open Market Committee and the Board of Governors was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, April 30, 2019, at 10:00 a.m. and continued on Wednesday, May 1, 2019, at 9:00 a.m.1
 
@@ -338,7 +266,7 @@ In their discussion of the household sector, participants discussed recent indic
 
 Participants noted that growth of business fixed investment had moderated in the first quarter relative to the average pace recorded last year and discussed whether this more moderate growth was likely to persist. A number of participants expressed optimism that there would be continued growth in capital expenditures this year, albeit probably at a slower pace than in 2018. Several participants observed that financial conditions and business sentiment had continued to improve, consistent with reports from business contacts in a number of Districts; however, a few others reported less buoyant business sentiment Many participants suggested that their own concerns from earlier in the year about downside risks from slowing global economic growth and the deterioration in financial conditions or similar concerns expressed by their business contacts had abated to some extent. However, a few participants noted that ongoing challenges in the agricultural sector, including those associated with trade uncertainty and low prices, had been exacerbated by severe flooding in recent weeks.
 
-Participants observed that inflation pressures remained muted and that the most recent data on overall inflation, and inflation for items other than food and energy, had come in lower than expected. At least part of the recent softness in inflation could be attributed to idiosyncratic factors that seemed likely to have only transitory effects on inflation, including unusually sharp declines in the prices of apparel and of portfolio management services. Some research suggests that idiosyncratic factors that largely affected acylical sectors in the economy had accounted for a substantial portion of the fluctuations in inflation over the past couple of years. Consistent with the view that recent lower inflation readings could be temporary, a number of participants mentioned the trimmed mean measure of PCE price inflation, produced by the Federal Reserve Bank of Dallas, which removes the influence of unusually large changes in the prices of individual items in either direction; these participants observed that the trimmed mean measure had been stable at or close to 2 percent over recent months. Participants continued to view inflation near the Committee's symmetric 2 percent objective as the most likely outcome, but, in light of recent, softer inflation readings, some viewed the downside risks to inflation as having increased. Some participants also expressed concerns that long-term inflation expectations could be below levels consistent with the Committee's 2 percent target or at risk of falling below that level.  
+Participants observed that inflation pressures remained muted and that the most recent data on overall inflation, and inflation for items other than food and energy, had come in lower than expected. At least part of the recent softness in inflation could be attributed to idiosyncratic factors that seemed likely to have only transitory effects on inflation, including unusually sharp declines in the prices of apparel and of portfolio management services. Some research suggests that idiosyncratic factors that largely affected acylical sectors in the economy had accounted for a substantial portion of the fluctuations in inflation over the past couple of years. Consistent with the view that recent lower inflation readings could be temporary, a number of participants mentioned the trimmed mean measure of PCE price inflation, produced by the Federal Reserve Bank of Dallas, which removes the influence of unusually large changes in the prices of individual items in either direction; these participants observed that the trimmed mean measure had been stable at or close to 2 percent over recent months. Participants continued to view inflation near the Committee's symmetric 2 percent objective as the most likely outcome, but, in light of recent, softer inflation readings, some viewed the downside risks to inflation as having increased. Some participants also expressed concerns that long-term inflation expectations could be below levels consistent with the Committee's 2 percent target or at risk of falling below that level.
 
 Participants agreed that labor market conditions remained strong. Job gains in the March employment report were solid, the unemployment rate remained low, and, while the labor force participation rate moved down a touch, it remained high relative to estimates of its underlying demographically driven, downward trend. Contacts in a number of Districts continued to report shortages of qualified workers, in some cases inducing businesses to find novel ways to attract new workers. A few participants commented that labor market conditions in their Districts were putting upward pressure on compensation levels for lower-wage jobs, although there were few reports of a broad-based pickup in wage growth. Several participants noted that business contacts expressed optimism that despite tight labor markets they would be able to find workers or would find technological solutions for labor shortage problems.
 

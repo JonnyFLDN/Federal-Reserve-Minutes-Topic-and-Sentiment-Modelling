@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 January 29-30, 2013
 
@@ -233,10 +161,9 @@ James Bullard, President of the Federal Reserve Bank of St. Louis, with Richard 
 
 Esther L. George, President of the Federal Reserve Bank of Kansas City, with Narayana Kocherlakota, President of the Federal Reserve Bank of Minneapolis, as alternate.
 
-By unanimous vote, the following officers of the Federal Open Market Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2014: 
- 
+By unanimous vote, the following officers of the Federal Open Market Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2014:
 
- 
+
 
 By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account.
 
@@ -403,9 +330,9 @@ Increases in real personal consumption expenditures picked up somewhat in the fo
 
 Conditions in the housing sector continued to improve, but construction activity remained at a relatively low level, restrained by tight underwriting standards for mortgage loans and the substantial inventory of foreclosed and distressed properties. Starts of both new single-family homes and multifamily units advanced in the fourth quarter, and permits also rose, which pointed to additional gains in construction in the coming months. Home prices increased further in November. In the fourth quarter, sales of both new and existing homes were higher than in the previous quarter.
 
-Real business expenditures on equipment and software rose briskly in the fourth quarter after declining moderately in the preceding quarter. Although nominal new orders for nondefense capital goods excluding aircraft also increased markedly last quarter, the level of orders remained below shipments. Moreover, other recent forward-looking indicators, such as surveys of business conditions and capital spending plans, suggested that outlays for business equipment would rise only modestly in the coming months. Real business spending for nonresidential construction declined somewhat in the fourth quarter and remained at a relatively low level. A reduction in the accumulation of nonfarm business inventories subtracted a considerable amount from the change in real gross domestic product (GDP) in the fourth quarter. 
+Real business expenditures on equipment and software rose briskly in the fourth quarter after declining moderately in the preceding quarter. Although nominal new orders for nondefense capital goods excluding aircraft also increased markedly last quarter, the level of orders remained below shipments. Moreover, other recent forward-looking indicators, such as surveys of business conditions and capital spending plans, suggested that outlays for business equipment would rise only modestly in the coming months. Real business spending for nonresidential construction declined somewhat in the fourth quarter and remained at a relatively low level. A reduction in the accumulation of nonfarm business inventories subtracted a considerable amount from the change in real gross domestic product (GDP) in the fourth quarter.
 
-Real federal government purchases decreased substantially in the fourth quarter, primarily because of a sharp decline in defense spending that followed a marked increase in the previous quarter. Real state and local government purchases decreased slightly in the fourth quarter. 
+Real federal government purchases decreased substantially in the fourth quarter, primarily because of a sharp decline in defense spending that followed a marked increase in the previous quarter. Real state and local government purchases decreased slightly in the fourth quarter.
 
 The U.S. international trade deficit widened substantially in November, as imports rose more quickly than exports. The rise in imports was fairly broad-based, led by strong increases in consumer goods, while the increase in exports mainly reflected higher sales of capital goods and automotive products. Exports to Europe posted another significant decline in November. Based on data for October and November and an estimate of the trade data for December, the advance release of the national income and product accounts showed that real net exports of goods and services made a small negative arithmetic contribution to the change in U.S. real GDP in the fourth quarter, with exports declining more than imports.
 
@@ -418,19 +345,19 @@ Economic growth in the advanced foreign economies appeared to remain weak in the
 Staff Review of the Financial Situation
 U.S. financial market conditions improved on net between the December and January FOMC meetings, largely in response to the partial resolution of the issues associated with the so-called fiscal cliff, a positive start to the corporate earnings reporting season, and some favorable policy developments in Europe.
 
-The expected path of the federal funds rate based on market quotes moved up on balance over the intermeeting period, likely reflecting a somewhat more positive assessment of the economic outlook. Results from the Desk's survey of primary dealers conducted prior to the January meeting showed that dealers continued to view the third quarter of 2015 as the most likely time of the first increase in the target federal funds rate. In addition, the median dealer continued to see the first quarter of 2014 as the most likely time for the Committee's asset purchases to conclude, although fewer dealers than in December expected those purchases to continue beyond 2014. 
+The expected path of the federal funds rate based on market quotes moved up on balance over the intermeeting period, likely reflecting a somewhat more positive assessment of the economic outlook. Results from the Desk's survey of primary dealers conducted prior to the January meeting showed that dealers continued to view the third quarter of 2015 as the most likely time of the first increase in the target federal funds rate. In addition, the median dealer continued to see the first quarter of 2014 as the most likely time for the Committee's asset purchases to conclude, although fewer dealers than in December expected those purchases to continue beyond 2014.
 
-Treasury coupon yields increased over the intermeeting period, including a notable rise just after year-end when passage of the American Taxpayer Relief Act of 2012 apparently lessened concerns about the risk of substantially higher fiscal drag on growth in the near term. More-positive investor sentiment regarding the outlook for global economic growth, along with some optimism about a federal debt ceiling deal, may also have contributed to the increase in yields. Measures of inflation compensation derived from nominal and inflation-protected Treasury securities rose slightly over the intermeeting period. 
+Treasury coupon yields increased over the intermeeting period, including a notable rise just after year-end when passage of the American Taxpayer Relief Act of 2012 apparently lessened concerns about the risk of substantially higher fiscal drag on growth in the near term. More-positive investor sentiment regarding the outlook for global economic growth, along with some optimism about a federal debt ceiling deal, may also have contributed to the increase in yields. Measures of inflation compensation derived from nominal and inflation-protected Treasury securities rose slightly over the intermeeting period.
 
-Conditions in short-term dollar funding markets were generally little changed on balance; year-end funding pressures were modest overall and roughly in line with market expectations. The outstanding amount of unsecured commercial paper issued by European financial institutions increased noticeably. 
+Conditions in short-term dollar funding markets were generally little changed on balance; year-end funding pressures were modest overall and roughly in line with market expectations. The outstanding amount of unsecured commercial paper issued by European financial institutions increased noticeably.
 
-Indicators of the condition of domestic financial institutions generally improved over the intermeeting period. A broad index of bank stock prices rose, and the median spread on credit default swaps of the largest banking organizations moved lower. 
+Indicators of the condition of domestic financial institutions generally improved over the intermeeting period. A broad index of bank stock prices rose, and the median spread on credit default swaps of the largest banking organizations moved lower.
 
 Broad U.S. equity price indexes increased on net over the intermeeting period, buoyed by many of the same factors that contributed to the rise in Treasury yields. In addition, the fourth-quarter earnings reporting season started off well, as earnings and revenue results were above analysts' expectations for a higher-than-average number of firms. Option-implied volatility for the S&P 500 index over the near term dipped to its lowest level since early 2007. The option-implied price of insurance against downside risk on the index at longer horizons remained elevated.
 
-Yields on speculative-grade corporate bonds decreased over the intermeeting period, and yields on investment-grade corporate bonds were up a bit. Risk spreads on speculative-grade bonds narrowed substantially, and spreads on investment-grade bonds decreased as well. 
+Yields on speculative-grade corporate bonds decreased over the intermeeting period, and yields on investment-grade corporate bonds were up a bit. Risk spreads on speculative-grade bonds narrowed substantially, and spreads on investment-grade bonds decreased as well.
 
-Net debt financing by nonfinancial firms increased in the fourth quarter. Outstanding volumes of corporate bonds, commercial and industrial loans, and nonfinancial commercial paper all expanded. The pace of gross public issuance of equity by nonfinancial firms remained solid in the fourth quarter, but it was subdued in January, likely because of seasonal factors. 
+Net debt financing by nonfinancial firms increased in the fourth quarter. Outstanding volumes of corporate bonds, commercial and industrial loans, and nonfinancial commercial paper all expanded. The pace of gross public issuance of equity by nonfinancial firms remained solid in the fourth quarter, but it was subdued in January, likely because of seasonal factors.
 
 Conditions in the commercial real estate sector continued to be strained amid elevated vacancy and delinquency rates. However, issuance of commercial mortgage-backed securities strengthened during the fourth quarter, and spreads on those securities narrowed over the intermeeting period.
 
@@ -438,14 +365,14 @@ Conforming home mortgage rates edged up, on net, after touching new lows during 
 
 Consumer credit expanded briskly again in October and November. Nonrevolving credit continued to increase at a robust pace because of growth in student and auto loans, while revolving credit moved roughly sideways. Issuance of consumer asset-backed securities remained strong in the fourth quarter.
 
-Growth of bank credit in the fourth quarter slowed to about half its pace compared with earlier in the year, as loan growth declined. According to the January Senior Loan Officer Opinion Survey on Bank Lending Practices, domestic banks continued to ease somewhat their lending standards and some loan terms, on balance; they also experienced an increase in demand, on net, in most major loan categories in the fourth quarter. 
+Growth of bank credit in the fourth quarter slowed to about half its pace compared with earlier in the year, as loan growth declined. According to the January Senior Loan Officer Opinion Survey on Bank Lending Practices, domestic banks continued to ease somewhat their lending standards and some loan terms, on balance; they also experienced an increase in demand, on net, in most major loan categories in the fourth quarter.
 
-M2 and its largest component, liquid deposits, expanded robustly in December. Initial data suggested that the expiration of unlimited deposit insurance on noninterest-bearing transaction accounts at year-end had only a limited effect on bank deposits through early January. The monetary base expanded at a strong rate in December, reflecting growth in both currency and reserve balances. 
+M2 and its largest component, liquid deposits, expanded robustly in December. Initial data suggested that the expiration of unlimited deposit insurance on noninterest-bearing transaction accounts at year-end had only a limited effect on bank deposits through early January. The monetary base expanded at a strong rate in December, reflecting growth in both currency and reserve balances.
 
-Foreign financial conditions improved over the intermeeting period as markets responded favorably to the passage of fiscal policy legislation in the United States and to further progress in addressing euro-area strains. On net, global equity prices rose and euro-area peripheral spreads narrowed. As global risk sentiment improved, the dollar depreciated against the euro and most emerging market currencies. Against the yen, however, the dollar appreciated substantially. The yen's depreciation appeared to occur in part in response to statements from Japan's new prime minister, who urged the Bank of Japan to ease policy more aggressively. At its January meeting, the Bank of Japan restated its monetary policy framework, replacing its inflation goal of 1 percent with an inflation target of 2 percent, and announced it would commence a program of asset purchases in January 2014 with no predetermined limit on the maximum amount ultimately purchased. Yields on long-term Japanese sovereign bonds rose a few basis points on net over the intermeeting period, but yields on other foreign benchmark sovereign bonds increased more, reflecting both the improvement in global sentiment and reduced expectations for additional monetary accommodation, as the European Central Bank and the Bank of England kept their policy rates on hold and appeared to signal less likelihood of further easing. 
+Foreign financial conditions improved over the intermeeting period as markets responded favorably to the passage of fiscal policy legislation in the United States and to further progress in addressing euro-area strains. On net, global equity prices rose and euro-area peripheral spreads narrowed. As global risk sentiment improved, the dollar depreciated against the euro and most emerging market currencies. Against the yen, however, the dollar appreciated substantially. The yen's depreciation appeared to occur in part in response to statements from Japan's new prime minister, who urged the Bank of Japan to ease policy more aggressively. At its January meeting, the Bank of Japan restated its monetary policy framework, replacing its inflation goal of 1 percent with an inflation target of 2 percent, and announced it would commence a program of asset purchases in January 2014 with no predetermined limit on the maximum amount ultimately purchased. Yields on long-term Japanese sovereign bonds rose a few basis points on net over the intermeeting period, but yields on other foreign benchmark sovereign bonds increased more, reflecting both the improvement in global sentiment and reduced expectations for additional monetary accommodation, as the European Central Bank and the Bank of England kept their policy rates on hold and appeared to signal less likelihood of further easing.
 
 Staff Economic Outlook
-In the economic forecast prepared by the staff for the January meeting of the FOMC, the near-term projection for real GDP growth was revised up, in large part because the fiscal policy legislation enacted in early January was slightly less restrictive than the staff had assumed. The staff's medium-term forecast for real GDP growth was essentially unchanged. With fiscal policy still anticipated to be tighter this year than last year, the staff expected that increases in real GDP would only moderately exceed the growth rate of potential output. In 2014 and 2015, real GDP was projected to accelerate gradually, supported by an eventual lessening of fiscal policy restraint, increases in consumer and business sentiment, further improvements in credit availability and financial conditions, and accommodative monetary policy. The expansion in economic activity was expected to slowly reduce the slack in labor and product markets over the projection period, and progress in reducing the unemployment rate was anticipated to be gradual. 
+In the economic forecast prepared by the staff for the January meeting of the FOMC, the near-term projection for real GDP growth was revised up, in large part because the fiscal policy legislation enacted in early January was slightly less restrictive than the staff had assumed. The staff's medium-term forecast for real GDP growth was essentially unchanged. With fiscal policy still anticipated to be tighter this year than last year, the staff expected that increases in real GDP would only moderately exceed the growth rate of potential output. In 2014 and 2015, real GDP was projected to accelerate gradually, supported by an eventual lessening of fiscal policy restraint, increases in consumer and business sentiment, further improvements in credit availability and financial conditions, and accommodative monetary policy. The expansion in economic activity was expected to slowly reduce the slack in labor and product markets over the projection period, and progress in reducing the unemployment rate was anticipated to be gradual.
 
 The staff's forecast for inflation was little changed from that prepared for the December FOMC meeting. The staff continued to project that inflation would be subdued through 2015. That forecast is based on the expectation that crude oil prices will trend down slowly from their current levels, the boost to retail food prices from last summer's drought will be temporary and relatively small, longer-run inflation expectations will remain stable, and significant resource slack will persist over the forecast period.
 
@@ -475,7 +402,7 @@ Several participants emphasized that the Committee should be prepared to vary th
 Participants also discussed the economic thresholds in the Committee's forward guidance on the path of the federal funds rate. On the whole, participants judged that financial markets had adapted to the shift from date-based communication to guidance based on economic thresholds without difficulty, although a few participants stated that communications challenges remained. For example, one participant commented that some market participants appeared to have incorrectly interpreted the thresholds as triggers that, when reached, would necessarily lead to an immediate rise in the federal funds rate. A couple of participants noted that this policy tool would be more effective if the Committee were able to communicate a consensus expectation for the path of the federal funds rate after a threshold was crossed. One participant also indicated a preference for lowering the threshold for the unemployment rate as a means of providing additional accommodation.
 
 Committee Policy Action
-Committee members saw the information received over the intermeeting period as suggesting that growth in economic activity had paused in recent months, in large part because of weather-related disruptions and other transitory factors. Employment had continued to expand at a moderate pace, but the unemployment rate remained elevated. However, members generally expected that, with appropriately accommodative monetary policy, economic growth would proceed at a moderate pace and the unemployment rate would gradually decline toward levels they judged to be consistent with the Committee's dual mandate. Although members saw strains in global financial markets as having eased somewhat, they continued to see an increase in such strains as well as slower global growth and a greater-than-expected fiscal tightening in the United States as downside risks to the economy. Members generally continued to anticipate that, with longer-term inflation expectations stable and slack in resource utilization remaining, inflation over the medium term would run at or below the Committee's longer-run objective of 2 percent. 
+Committee members saw the information received over the intermeeting period as suggesting that growth in economic activity had paused in recent months, in large part because of weather-related disruptions and other transitory factors. Employment had continued to expand at a moderate pace, but the unemployment rate remained elevated. However, members generally expected that, with appropriately accommodative monetary policy, economic growth would proceed at a moderate pace and the unemployment rate would gradually decline toward levels they judged to be consistent with the Committee's dual mandate. Although members saw strains in global financial markets as having eased somewhat, they continued to see an increase in such strains as well as slower global growth and a greater-than-expected fiscal tightening in the United States as downside risks to the economy. Members generally continued to anticipate that, with longer-term inflation expectations stable and slack in resource utilization remaining, inflation over the medium term would run at or below the Committee's longer-run objective of 2 percent.
 
 In their discussion of monetary policy for the period ahead, members saw the economic outlook as relatively little changed since the previous meeting. Accordingly, all but one member judged that maintaining the highly accommodative stance of monetary policy was warranted in order to foster a stronger economic recovery in a context of price stability. The Committee agreed that it would be appropriate to continue purchases of MBS at a pace of $40 billion per month and purchases of longer-term Treasury securities at a pace of $45 billion per month, as well as to maintain the Committee's reinvestment policies. The Committee also retained its forward guidance about the federal funds rate, including the thresholds on the unemployment and inflation rates. Some members remarked favorably on the move away from providing calendar dates in the forward guidance and toward highlighting the economic conditionality of future monetary policy. One member dissented from the Committee's policy decision, expressing concern that the continued high level of monetary accommodation increased the risks of future economic and financial imbalances and, over time, could cause an increase in long-term inflation expectations.
 

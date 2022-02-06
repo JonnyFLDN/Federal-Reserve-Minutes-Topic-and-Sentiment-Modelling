@@ -1,148 +1,76 @@
 The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
 
-
 Federal Open Market Committee
-
-
 
 Monetary Policy Principles and Practice
 
-
-
 Policy Implementation
 
-
-
 Reports
-
-
 
 Review of Monetary Policy Strategy, Tools, and Communications
 
-
-
 Institution Supervision
-
-
 
 Reports
 
-
-
 Reporting Forms
-
-
 
 Supervision & Regulation Letters
 
-
-
 Banking Applications & Legal Developments
-
-
 
 Regulatory Resources
 
-
-
 Banking & Data Structure
-
-
 
 Regulations & Statutes
 
-
-
 Payment Policies
-
-
 
 Reserve Bank Payment Services & Data
 
-
-
 Financial Market Utilities & Infrastructures
-
-
 
 Research, Committees, and Forums
 
-
-
 Working Papers and Notes
-
-
 
 Models and Tools
 
-
-
 Bank Assets and Liabilities
-
-
 
 Bank Structure Data
 
-
-
 Business Finance
-
-
 
 Dealer Financing Terms
 
-
-
 Exchange Rates and International Data
-
-
 
 Financial Accounts
 
-
-
 Household Finance
-
-
 
 Industrial Activity
 
-
-
 Interest Rates
-
-
 
 Micro Data Reference Manual (MDRM)
 
-
-
 Money Stock and Reserve Balances
-
-
 
 Other
 
-
-
 Regulations
-
-
 
 Supervision & Enforcement
 
-
-
 Community Development
-
-
 
 Research & Analysis
 
-
-
 Consumer Resources
-
 
 December 15-16, 2015
 
@@ -351,7 +279,7 @@ Voting for this action: Janet L. Yellen, William C. Dudley, Lael Brainard, Charl
 
 Voting against this action: None.
 
-To support the Committee's decision to raise the target range for the federal funds rate, the Board of Governors voted unanimously to raise the interest rates on required and excess reserve balances by 1/4 percentage point, to 1/2 percent, effective December 17, 2015. The Board of Governors also voted unanimously to approve a 1/4 percentage point increase in the primary credit rate (discount rate) to 1 percent, effective December 17, 2015.4 
+To support the Committee's decision to raise the target range for the federal funds rate, the Board of Governors voted unanimously to raise the interest rates on required and excess reserve balances by 1/4 percentage point, to 1/2 percent, effective December 17, 2015. The Board of Governors also voted unanimously to approve a 1/4 percentage point increase in the primary credit rate (discount rate) to 1 percent, effective December 17, 2015.4
 
 After these policy decisions, the deputy manager of the System Open Market Account briefed the Committee on plans for term RRPs over year-end.
 
@@ -363,9 +291,8 @@ By notation vote completed on November 17, 2015, the Committee unanimously appro
 _____________________________
 Brian F. Madigan
 Secretary
- 
 
- 
+
 
 1. Attended Wednesday session only. Return to text
 

@@ -1,4 +1,4 @@
-The information reviewed at this meeting suggested that the economy expanded at a
+ at this meeting suggested that the economy expanded at a
 solid pace in recent months. Consumer spending and the housing market continued to exhibit
 strength, and business fixed investment grew robustly in the fourth quarter. The pace of inventory
 accumulation picked up and industrial production accelerated. The labor market showed further
@@ -99,7 +99,6 @@ costs associated with monetary policy tightening. Because changes in interest ra
 deposits typically lag those in market interest rates, the growth of that component slowed in the
 second half of 2004. By contrast, growth of small time deposits, whose yields closely track market
 rates, picked up. Currency growth was about flat in December.
-
 
 In the staff forecast prepared for this meeting, the economy was seen as likely to expand
 at a pace a little above that of its longer-run potential over this year and next, while hiring was
@@ -228,4 +227,3 @@ for this meeting should again indicate that policy accommodation could be remove
 was likely to be measured but that the Committee would respond to changes in economic prospects
 as needed to maintain price stability.
 
-At the conclusion of the discussion
